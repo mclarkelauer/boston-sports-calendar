@@ -1,0 +1,2738 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boston-sports//home-games//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Boston Sports Home Games
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZ
+ OFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMON
+ TH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:
+ -0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYD
+ AY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:redsox-401816562@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260817T191000
+DTEND;TZID=America/New_York:20260817T221000
+SUMMARY:⚾ Red Sox vs Arizona Diamondbacks
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Arizona+Diamondbacks+8%2F17%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Red+Sox+vs+Arizona+Diamondbacks+8%2F17%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red
+ +Sox+vs+Arizona+Diamondbacks+8%2F17%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816571@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260818T191000
+DTEND;TZID=America/New_York:20260818T221000
+SUMMARY:⚾ Red Sox vs Arizona Diamondbacks
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Arizona+Diamondbacks+8%2F18%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Red+Sox+vs+Arizona+Diamondbacks+8%2F18%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red
+ +Sox+vs+Arizona+Diamondbacks+8%2F18%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816586@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260819T161000
+DTEND;TZID=America/New_York:20260819T191000
+SUMMARY:⚾ Red Sox vs Arizona Diamondbacks
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Arizona+Diamondbacks+8%2F19%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Red+Sox+vs+Arizona+Diamondbacks+8%2F19%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red
+ +Sox+vs+Arizona+Diamondbacks+8%2F19%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816610@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260821T191000
+DTEND;TZID=America/New_York:20260821T221000
+SUMMARY:⚾ Red Sox vs San Francisco Giants
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+San+Francisco+Giants+8%2F21%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Red+Sox+vs+San+Francisco+Giants+8%2F21%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red
+ +Sox+vs+San+Francisco+Giants+8%2F21%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401873293@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260822T190000
+DTEND;TZID=America/New_York:20260822T220000
+SUMMARY:🏈 Patriots vs Philadelphia Eagles (preseason)
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Philadelphia+Eagles+8%2F22%2F2026\nTicketmaster: https://w
+ ww.ticketmaster.com/search?q=New+England+Patriots+vs+Philadelphia+Eagles+
+ 8%2F22%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=
+ New+England+Patriots+vs+Philadelphia+Eagles+8%2F22%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816625@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260822T191500
+DTEND;TZID=America/New_York:20260822T221500
+SUMMARY:⚾ Red Sox vs San Francisco Giants
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+San+Francisco+Giants+8%2F22%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Red+Sox+vs+San+Francisco+Giants+8%2F22%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red
+ +Sox+vs+San+Francisco+Giants+8%2F22%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816640@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260823T151000
+DTEND;TZID=America/New_York:20260823T181000
+SUMMARY:⚾ Red Sox vs San Francisco Giants
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+San+Francisco+Giants+8%2F23%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Red+Sox+vs+San+Francisco+Giants+8%2F23%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red
+ +Sox+vs+San+Francisco+Giants+8%2F23%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:revs-761753@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260823T163000
+DTEND;TZID=America/New_York:20260823T193000
+SUMMARY:⚽ Revolution vs New York City FC
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Revolution+vs+New+York+City+FC+8%2F23%2F2026\nTicketmaster: https://ww
+ w.ticketmaster.com/search?q=New+England+Revolution+vs+New+York+City+FC+8%
+ 2F23%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Ne
+ w+England+Revolution+vs+New+York+City+FC+8%2F23%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816750@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260831T184500
+DTEND;TZID=America/New_York:20260831T214500
+SUMMARY:⚾ Red Sox vs Seattle Mariners
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Seattle+Mariners+8%2F31%2F2026\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Seattle+Mariners+8%2F31%2F2026\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Seattle+Mariners+8%2F31%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:legacy-401854079@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260831T200000
+DTEND;TZID=America/New_York:20260831T230000
+SUMMARY:⚽ Boston Legacy FC vs Angel City FC
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Le
+ gacy+FC+vs+Angel+City+FC+8%2F31%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Legacy+FC+vs+Angel+City+FC+8%2F31%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Legacy+FC+vs+
+ Angel+City+FC+8%2F31%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816761@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260901T184500
+DTEND;TZID=America/New_York:20260901T214500
+SUMMARY:⚾ Red Sox vs Seattle Mariners
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Seattle+Mariners+9%2F1%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+Seattle+Mariners+9%2F1%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Se
+ attle+Mariners+9%2F1%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816776@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260902T161000
+DTEND;TZID=America/New_York:20260902T191000
+SUMMARY:⚾ Red Sox vs Seattle Mariners
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Seattle+Mariners+9%2F2%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+Seattle+Mariners+9%2F2%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Se
+ attle+Mariners+9%2F2%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816842@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260907T133500
+DTEND;TZID=America/New_York:20260907T163500
+SUMMARY:⚾ Red Sox vs Los Angeles Angels
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Angels+9%2F7%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Angels+9%2F7%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Los+Angeles+Angels+9%2F7%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816853@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260908T184500
+DTEND;TZID=America/New_York:20260908T214500
+SUMMARY:⚾ Red Sox vs Los Angeles Angels
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Angels+9%2F8%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Angels+9%2F8%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Los+Angeles+Angels+9%2F8%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816868@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260909T184500
+DTEND;TZID=America/New_York:20260909T214500
+SUMMARY:⚾ Red Sox vs Los Angeles Angels
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Angels+9%2F9%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Angels+9%2F9%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Los+Angeles+Angels+9%2F9%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816892@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260911T191000
+DTEND;TZID=America/New_York:20260911T221000
+SUMMARY:⚾ Red Sox vs Kansas City Royals
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Kansas+City+Royals+9%2F11%2F2026\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Kansas+City+Royals+9%2F11%2F2026\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Kansas+City+Royals+9%2F11%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bceagles-401858214@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260911T193000
+DTEND;TZID=America/New_York:20260911T223000
+SUMMARY:🏈 BC Football vs Rutgers Scarlet Knights
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Co
+ llege+Eagles+Football+vs+Rutgers+Scarlet+Knights+9%2F11%2F2026\nTicketmas
+ ter: https://www.ticketmaster.com/search?q=Boston+College+Eagles+Football
+ +vs+Rutgers+Scarlet+Knights+9%2F11%2F2026\nVivid Seats: https://www.vivid
+ seats.com/search?searchTerm=Boston+College+Eagles+Football+vs+Rutgers+Sca
+ rlet+Knights+9%2F11%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816907@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260912T161000
+DTEND;TZID=America/New_York:20260912T191000
+SUMMARY:⚾ Red Sox vs Kansas City Royals
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Kansas+City+Royals+9%2F12%2F2026\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Kansas+City+Royals+9%2F12%2F2026\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Kansas+City+Royals+9%2F12%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401816922@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260913T133500
+DTEND;TZID=America/New_York:20260913T163500
+SUMMARY:⚾ Red Sox vs Kansas City Royals
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Kansas+City+Royals+9%2F13%2F2026\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Kansas+City+Royals+9%2F13%2F2026\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Kansas+City+Royals+9%2F13%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bceagles-401858227@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260919T140000
+DTEND;TZID=America/New_York:20260919T170000
+SUMMARY:🏈 BC Football vs Maine Black Bears
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Co
+ llege+Eagles+Football+vs+Maine+Black+Bears+9%2F19%2F2026\nTicketmaster: h
+ ttps://www.ticketmaster.com/search?q=Boston+College+Eagles+Football+vs+Ma
+ ine+Black+Bears+9%2F19%2F2026\nVivid Seats: https://www.vividseats.com/se
+ arch?searchTerm=Boston+College+Eagles+Football+vs+Maine+Black+Bears+9%2F1
+ 9%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:revs-761816@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260919T193000
+DTEND;TZID=America/New_York:20260919T223000
+SUMMARY:⚽ Revolution vs Orlando City SC
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Revolution+vs+Orlando+City+SC+9%2F19%2F2026\nTicketmaster: https://www
+ .ticketmaster.com/search?q=New+England+Revolution+vs+Orlando+City+SC+9%2F
+ 19%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=New+
+ England+Revolution+vs+Orlando+City+SC+9%2F19%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401872946@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260920T130000
+DTEND;TZID=America/New_York:20260920T160000
+SUMMARY:🏈 Patriots vs Pittsburgh Steelers
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Pittsburgh+Steelers+9%2F20%2F2026\nTicketmaster: https://w
+ ww.ticketmaster.com/search?q=New+England+Patriots+vs+Pittsburgh+Steelers+
+ 9%2F20%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=
+ New+England+Patriots+vs+Pittsburgh+Steelers+9%2F20%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:legacy-401854086@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260920T140000
+DTEND;TZID=America/New_York:20260920T170000
+SUMMARY:⚽ Boston Legacy FC vs Houston Dash
+LOCATION:Centreville Bank Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Le
+ gacy+FC+vs+Houston+Dash+9%2F20%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Legacy+FC+vs+Houston+Dash+9%2F20%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Legacy+FC+vs+Ho
+ uston+Dash+9%2F20%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401817031@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260922T184500
+DTEND;TZID=America/New_York:20260922T214500
+SUMMARY:⚾ Red Sox vs Cleveland Guardians
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cleveland+Guardians+9%2F22%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Cleveland+Guardians+9%2F22%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Cleveland+Guardians+9%2F22%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401817046@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260923T191000
+DTEND;TZID=America/New_York:20260923T221000
+SUMMARY:⚾ Red Sox vs Cleveland Guardians
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cleveland+Guardians+9%2F23%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Cleveland+Guardians+9%2F23%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Cleveland+Guardians+9%2F23%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401817061@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260924T184500
+DTEND;TZID=America/New_York:20260924T214500
+SUMMARY:⚾ Red Sox vs Cleveland Guardians
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cleveland+Guardians+9%2F24%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Cleveland+Guardians+9%2F24%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Cleveland+Guardians+9%2F24%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401817074@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260925T191000
+DTEND;TZID=America/New_York:20260925T221000
+SUMMARY:⚾ Red Sox vs Chicago Cubs
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Chicago+Cubs+9%2F25%2F2026\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Red+Sox+vs+Chicago+Cubs+9%2F25%2F2026\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Chicago+
+ Cubs+9%2F25%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bceagles-401858242@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:🏈 BC Football vs Virginia Tech Hokies (time TBD)
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Co
+ llege+Eagles+Football+vs+Virginia+Tech+Hokies+9%2F26%2F2026\nTicketmaster
+ : https://www.ticketmaster.com/search?q=Boston+College+Eagles+Football+vs
+ +Virginia+Tech+Hokies+9%2F26%2F2026\nVivid Seats: https://www.vividseats.
+ com/search?searchTerm=Boston+College+Eagles+Football+vs+Virginia+Tech+Hok
+ ies+9%2F26%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401817089@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260926T191500
+DTEND;TZID=America/New_York:20260926T221500
+SUMMARY:⚾ Red Sox vs Chicago Cubs
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Chicago+Cubs+9%2F26%2F2026\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Red+Sox+vs+Chicago+Cubs+9%2F26%2F2026\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Chicago+
+ Cubs+9%2F26%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401817104@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260927T150500
+DTEND;TZID=America/New_York:20260927T180500
+SUMMARY:⚾ Red Sox vs Chicago Cubs
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Chicago+Cubs+9%2F27%2F2026\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Red+Sox+vs+Chicago+Cubs+9%2F27%2F2026\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Chicago+
+ Cubs+9%2F27%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401891774@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20260929T200000
+DTEND;TZID=America/New_York:20260929T230000
+SUMMARY:🏒 Bruins vs New York Rangers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+New+York+Rangers+9%2F29%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Bruins+vs+New+York+Rangers+9%2F29%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+New
+ +York+Rangers+9%2F29%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892446@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261005T193000
+DTEND;TZID=America/New_York:20261005T223000
+SUMMARY:🏒 Bruins vs Ottawa Senators
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Ottawa+Senators+10%2F5%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Bruins+vs+Ottawa+Senators+10%2F5%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Ottaw
+ a+Senators+10%2F5%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892457@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T220000
+SUMMARY:🏒 Bruins vs Utah Mammoth
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Utah+Mammoth+10%2F8%2F2026\nTicketmaster: https://www.ticketmaste
+ r.com/search?q=Boston+Bruins+vs+Utah+Mammoth+10%2F8%2F2026\nVivid Seats: 
+ https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Utah+Mammot
+ h+10%2F8%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892469@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261010T130000
+DTEND;TZID=America/New_York:20261010T160000
+SUMMARY:🏒 Bruins vs Philadelphia Flyers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Philadelphia+Flyers+10%2F10%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Bruins+vs+Philadelphia+Flyers+10%2F10%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruin
+ s+vs+Philadelphia+Flyers+10%2F10%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:revs-761851@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261010T193000
+DTEND;TZID=America/New_York:20261010T223000
+SUMMARY:⚽ Revolution vs Seattle Sounders FC
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Revolution+vs+Seattle+Sounders+FC+10%2F10%2F2026\nTicketmaster: https:
+ //www.ticketmaster.com/search?q=New+England+Revolution+vs+Seattle+Sounder
+ s+FC+10%2F10%2F2026\nVivid Seats: https://www.vividseats.com/search?searc
+ hTerm=New+England+Revolution+vs+Seattle+Sounders+FC+10%2F10%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401872986@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261011T130000
+DTEND;TZID=America/New_York:20261011T160000
+SUMMARY:🏈 Patriots vs Las Vegas Raiders
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Las+Vegas+Raiders+10%2F11%2F2026\nTicketmaster: https://ww
+ w.ticketmaster.com/search?q=New+England+Patriots+vs+Las+Vegas+Raiders+10%
+ 2F11%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Ne
+ w+England+Patriots+vs+Las+Vegas+Raiders+10%2F11%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:legacy-401854091@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261016T200000
+DTEND;TZID=America/New_York:20261016T230000
+SUMMARY:⚽ Boston Legacy FC vs Racing Louisville FC
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Le
+ gacy+FC+vs+Racing+Louisville+FC+10%2F16%2F2026\nTicketmaster: https://www
+ .ticketmaster.com/search?q=Boston+Legacy+FC+vs+Racing+Louisville+FC+10%2F
+ 16%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Bost
+ on+Legacy+FC+vs+Racing+Louisville+FC+10%2F16%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bceagles-401858267@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:🏈 BC Football vs Pittsburgh Panthers (time TBD)
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Co
+ llege+Eagles+Football+vs+Pittsburgh+Panthers+10%2F17%2F2026\nTicketmaster
+ : https://www.ticketmaster.com/search?q=Boston+College+Eagles+Football+vs
+ +Pittsburgh+Panthers+10%2F17%2F2026\nVivid Seats: https://www.vividseats.
+ com/search?searchTerm=Boston+College+Eagles+Football+vs+Pittsburgh+Panthe
+ rs+10%2F17%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:revs-761879@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261017T193000
+DTEND;TZID=America/New_York:20261017T223000
+SUMMARY:⚽ Revolution vs Chicago Fire FC
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Revolution+vs+Chicago+Fire+FC+10%2F17%2F2026\nTicketmaster: https://ww
+ w.ticketmaster.com/search?q=New+England+Revolution+vs+Chicago+Fire+FC+10%
+ 2F17%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Ne
+ w+England+Revolution+vs+Chicago+Fire+FC+10%2F17%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401873001@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261018T130000
+DTEND;TZID=America/New_York:20261018T160000
+SUMMARY:🏈 Patriots vs New York Jets
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+New+York+Jets+10%2F18%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=New+England+Patriots+vs+New+York+Jets+10%2F18%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=New+Englan
+ d+Patriots+vs+New+York+Jets+10%2F18%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892552@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T220000
+SUMMARY:🏒 Bruins vs Nashville Predators
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Nashville+Predators+10%2F22%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Bruins+vs+Nashville+Predators+10%2F22%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruin
+ s+vs+Nashville+Predators+10%2F22%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909095@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261023T190000
+DTEND;TZID=America/New_York:20261023T220000
+SUMMARY:🏀 Celtics vs New York Knicks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+New+York+Knicks+10%2F23%2F2026\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Celtics+vs+New+York+Knicks+10%2F23%2F2026\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+
+ New+York+Knicks+10%2F23%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892568@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261024T190000
+DTEND;TZID=America/New_York:20261024T220000
+SUMMARY:🏒 Bruins vs San Jose Sharks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+San+Jose+Sharks+10%2F24%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Bruins+vs+San+Jose+Sharks+10%2F24%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+San
+ +Jose+Sharks+10%2F24%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909870@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261026T193000
+DTEND;TZID=America/New_York:20261026T223000
+SUMMARY:🏀 Celtics vs Chicago Bulls
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Chicago+Bulls+10%2F26%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Celtics+vs+Chicago+Bulls+10%2F26%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Chic
+ ago+Bulls+10%2F26%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909877@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261027T193000
+DTEND;TZID=America/New_York:20261027T223000
+SUMMARY:🏀 Celtics vs Brooklyn Nets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Brooklyn+Nets+10%2F27%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Celtics+vs+Brooklyn+Nets+10%2F27%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Broo
+ klyn+Nets+10%2F27%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:revs-761909@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261028T193000
+DTEND;TZID=America/New_York:20261028T223000
+SUMMARY:⚽ Revolution vs Red Bull New York
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Revolution+vs+Red+Bull+New+York+10%2F28%2F2026\nTicketmaster: https://
+ www.ticketmaster.com/search?q=New+England+Revolution+vs+Red+Bull+New+York
+ +10%2F28%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTer
+ m=New+England+Revolution+vs+Red+Bull+New+York+10%2F28%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909278@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261030T193000
+DTEND;TZID=America/New_York:20261030T223000
+SUMMARY:🏀 Celtics vs Chicago Bulls
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Chicago+Bulls+10%2F30%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Celtics+vs+Chicago+Bulls+10%2F30%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Chic
+ ago+Bulls+10%2F30%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892614@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261031T130000
+DTEND;TZID=America/New_York:20261031T160000
+SUMMARY:🏒 Bruins vs Chicago Blackhawks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Chicago+Blackhawks+10%2F31%2F2026\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Bruins+vs+Chicago+Blackhawks+10%2F31%2F2026\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+
+ vs+Chicago+Blackhawks+10%2F31%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:revs-761932@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261101T180000
+DTEND;TZID=America/New_York:20261101T210000
+SUMMARY:⚽ Revolution vs Inter Miami CF
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Revolution+vs+Inter+Miami+CF+11%2F1%2F2026\nTicketmaster: https://www.
+ ticketmaster.com/search?q=New+England+Revolution+vs+Inter+Miami+CF+11%2F1
+ %2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=New+En
+ gland+Revolution+vs+Inter+Miami+CF+11%2F1%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892629@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261102T190000
+DTEND;TZID=America/New_York:20261102T220000
+SUMMARY:🏒 Bruins vs Vegas Golden Knights
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Vegas+Golden+Knights+11%2F2%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Bruins+vs+Vegas+Golden+Knights+11%2F2%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruin
+ s+vs+Vegas+Golden+Knights+11%2F2%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909924@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261104T193000
+DTEND;TZID=America/New_York:20261104T223000
+SUMMARY:🏀 Celtics vs Milwaukee Bucks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Milwaukee+Bucks+11%2F4%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Celtics+vs+Milwaukee+Bucks+11%2F4%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Mi
+ lwaukee+Bucks+11%2F4%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bceagles-401858289@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏈 BC Football vs Florida State Seminoles (time TBD)
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Co
+ llege+Eagles+Football+vs+Florida+State+Seminoles+11%2F7%2F2026\nTicketmas
+ ter: https://www.ticketmaster.com/search?q=Boston+College+Eagles+Football
+ +vs+Florida+State+Seminoles+11%2F7%2F2026\nVivid Seats: https://www.vivid
+ seats.com/search?searchTerm=Boston+College+Eagles+Football+vs+Florida+Sta
+ te+Seminoles+11%2F7%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892674@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261108T130000
+DTEND;TZID=America/New_York:20261108T160000
+SUMMARY:🏒 Bruins vs Florida Panthers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Florida+Panthers+11%2F8%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Bruins+vs+Florida+Panthers+11%2F8%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Flo
+ rida+Panthers+11%2F8%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401873049@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261108T162500
+DTEND;TZID=America/New_York:20261108T192500
+SUMMARY:🏈 Patriots vs Green Bay Packers
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Green+Bay+Packers+11%2F8%2F2026\nTicketmaster: https://www
+ .ticketmaster.com/search?q=New+England+Patriots+vs+Green+Bay+Packers+11%2
+ F8%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=New+
+ England+Patriots+vs+Green+Bay+Packers+11%2F8%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892696@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261112T190000
+DTEND;TZID=America/New_York:20261112T220000
+SUMMARY:🏒 Bruins vs Montreal Canadiens
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Montreal+Canadiens+11%2F12%2F2026\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Bruins+vs+Montreal+Canadiens+11%2F12%2F2026\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+
+ vs+Montreal+Canadiens+11%2F12%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892709@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261114T190000
+DTEND;TZID=America/New_York:20261114T220000
+SUMMARY:🏒 Bruins vs Minnesota Wild
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Minnesota+Wild+11%2F14%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Bruins+vs+Minnesota+Wild+11%2F14%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Minne
+ sota+Wild+11%2F14%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909989@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261115T180000
+DTEND;TZID=America/New_York:20261115T210000
+SUMMARY:🏀 Celtics vs Dallas Mavericks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Dallas+Mavericks+11%2F15%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Celtics+vs+Dallas+Mavericks+11%2F15%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+v
+ s+Dallas+Mavericks+11%2F15%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909994@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261116T190000
+DTEND;TZID=America/New_York:20261116T220000
+SUMMARY:🏀 Celtics vs Orlando Magic
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Orlando+Magic+11%2F16%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Celtics+vs+Orlando+Magic+11%2F16%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Orla
+ ndo+Magic+11%2F16%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892728@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261117T190000
+DTEND;TZID=America/New_York:20261117T220000
+SUMMARY:🏒 Bruins vs Los Angeles Kings
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Los+Angeles+Kings+11%2F17%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+Los+Angeles+Kings+11%2F17%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +Los+Angeles+Kings+11%2F17%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bceagles-401858309@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:🏈 BC Football vs Syracuse Orange (time TBD)
+LOCATION:Alumni Stadium (Chestnut Hill\, MA)
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Co
+ llege+Eagles+Football+vs+Syracuse+Orange+11%2F21%2F2026\nTicketmaster: ht
+ tps://www.ticketmaster.com/search?q=Boston+College+Eagles+Football+vs+Syr
+ acuse+Orange+11%2F21%2F2026\nVivid Seats: https://www.vividseats.com/sear
+ ch?searchTerm=Boston+College+Eagles+Football+vs+Syracuse+Orange+11%2F21%2
+ F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892758@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261121T190000
+DTEND;TZID=America/New_York:20261121T220000
+SUMMARY:🏒 Bruins vs Washington Capitals
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Washington+Capitals+11%2F21%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Bruins+vs+Washington+Capitals+11%2F21%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruin
+ s+vs+Washington+Capitals+11%2F21%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892781@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261125T190000
+DTEND;TZID=America/New_York:20261125T220000
+SUMMARY:🏒 Bruins vs Winnipeg Jets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Winnipeg+Jets+11%2F25%2F2026\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Bruins+vs+Winnipeg+Jets+11%2F25%2F2026\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Winnipe
+ g+Jets+11%2F25%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892795@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261127T130000
+DTEND;TZID=America/New_York:20261127T160000
+SUMMARY:🏒 Bruins vs Toronto Maple Leafs
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Toronto+Maple+Leafs+11%2F27%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Bruins+vs+Toronto+Maple+Leafs+11%2F27%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruin
+ s+vs+Toronto+Maple+Leafs+11%2F27%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909330@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261127T200000
+DTEND;TZID=America/New_York:20261127T230000
+SUMMARY:🏀 Celtics vs Atlanta Hawks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Atlanta+Hawks+11%2F27%2F2026\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Celtics+vs+Atlanta+Hawks+11%2F27%2F2026\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Atla
+ nta+Hawks+11%2F27%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892824@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261129T170000
+DTEND;TZID=America/New_York:20261129T200000
+SUMMARY:🏒 Bruins vs Vancouver Canucks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Vancouver+Canucks+11%2F29%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+Vancouver+Canucks+11%2F29%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +Vancouver+Canucks+11%2F29%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892835@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T223000
+SUMMARY:🏒 Bruins vs Colorado Avalanche
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Colorado+Avalanche+12%2F1%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+Colorado+Avalanche+12%2F1%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +Colorado+Avalanche+12%2F1%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910078@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261202T193000
+DTEND;TZID=America/New_York:20261202T223000
+SUMMARY:🏀 Celtics vs Charlotte Hornets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Charlotte+Hornets+12%2F2%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Celtics+vs+Charlotte+Hornets+12%2F2%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+v
+ s+Charlotte+Hornets+12%2F2%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892859@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261205T130000
+DTEND;TZID=America/New_York:20261205T160000
+SUMMARY:🏒 Bruins vs Detroit Red Wings
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Detroit+Red+Wings+12%2F5%2F2026\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Bruins+vs+Detroit+Red+Wings+12%2F5%2F2026\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+D
+ etroit+Red+Wings+12%2F5%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401873105@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261206T162500
+DTEND;TZID=America/New_York:20261206T192500
+SUMMARY:🏈 Patriots vs Buffalo Bills
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Buffalo+Bills+12%2F6%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=New+England+Patriots+vs+Buffalo+Bills+12%2F6%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=New+England+
+ Patriots+vs+Buffalo+Bills+12%2F6%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401873109@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261210T201500
+DTEND;TZID=America/New_York:20261210T231500
+SUMMARY:🏈 Patriots vs Minnesota Vikings
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Minnesota+Vikings+12%2F10%2F2026\nTicketmaster: https://ww
+ w.ticketmaster.com/search?q=New+England+Patriots+vs+Minnesota+Vikings+12%
+ 2F10%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Ne
+ w+England+Patriots+vs+Minnesota+Vikings+12%2F10%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892909@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261212T130000
+DTEND;TZID=America/New_York:20261212T160000
+SUMMARY:🏒 Bruins vs New Jersey Devils
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+New+Jersey+Devils+12%2F12%2F2026\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+New+Jersey+Devils+12%2F12%2F2026\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +New+Jersey+Devils+12%2F12%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910107@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261214T193000
+DTEND;TZID=America/New_York:20261214T223000
+SUMMARY:🏀 Celtics vs Washington Wizards
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Washington+Wizards+12%2F14%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Celtics+vs+Washington+Wizards+12%2F14%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celti
+ cs+vs+Washington+Wizards+12%2F14%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892931@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T220000
+SUMMARY:🏒 Bruins vs Florida Panthers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Florida+Panthers+12%2F15%2F2026\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Bruins+vs+Florida+Panthers+12%2F15%2F2026\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+F
+ lorida+Panthers+12%2F15%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910117@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T220000
+SUMMARY:🏀 Celtics vs Washington Wizards
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Washington+Wizards+12%2F16%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Celtics+vs+Washington+Wizards+12%2F16%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celti
+ cs+vs+Washington+Wizards+12%2F16%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892946@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261217T190000
+DTEND;TZID=America/New_York:20261217T220000
+SUMMARY:🏒 Bruins vs St. Louis Blues
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+St.+Louis+Blues+12%2F17%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Bruins+vs+St.+Louis+Blues+12%2F17%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+St.
+ +Louis+Blues+12%2F17%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910136@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261218T193000
+DTEND;TZID=America/New_York:20261218T223000
+SUMMARY:🏀 Celtics vs Utah Jazz
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Utah+Jazz+12%2F18%2F2026\nTicketmaster: https://www.ticketmaster
+ .com/search?q=Boston+Celtics+vs+Utah+Jazz+12%2F18%2F2026\nVivid Seats: ht
+ tps://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Utah+Jazz+12
+ %2F18%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892970@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261220T130000
+DTEND;TZID=America/New_York:20261220T160000
+SUMMARY:🏒 Bruins vs Philadelphia Flyers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Philadelphia+Flyers+12%2F20%2F2026\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Bruins+vs+Philadelphia+Flyers+12%2F20%2F202
+ 6\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruin
+ s+vs+Philadelphia+Flyers+12%2F20%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910156@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261220T200000
+DTEND;TZID=America/New_York:20261220T230000
+SUMMARY:🏀 Celtics vs Detroit Pistons
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Detroit+Pistons+12%2F20%2F2026\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Celtics+vs+Detroit+Pistons+12%2F20%2F2026\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+
+ Detroit+Pistons+12%2F20%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910175@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261223T193000
+DTEND;TZID=America/New_York:20261223T223000
+SUMMARY:🏀 Celtics vs Portland Trail Blazers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Portland+Trail+Blazers+12%2F23%2F2026\nTicketmaster: https://www
+ .ticketmaster.com/search?q=Boston+Celtics+vs+Portland+Trail+Blazers+12%2F
+ 23%2F2026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Bost
+ on+Celtics+vs+Portland+Trail+Blazers+12%2F23%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401909098@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261225T143000
+DTEND;TZID=America/New_York:20261225T173000
+SUMMARY:🏀 Celtics vs Miami Heat
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Miami+Heat+12%2F25%2F2026\nTicketmaster: https://www.ticketmaste
+ r.com/search?q=Boston+Celtics+vs+Miami+Heat+12%2F25%2F2026\nVivid Seats: 
+ https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Miami+Heat
+ +12%2F25%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401892995@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261226T190000
+DTEND;TZID=America/New_York:20261226T220000
+SUMMARY:🏒 Bruins vs New York Islanders
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+New+York+Islanders+12%2F26%2F2026\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Bruins+vs+New+York+Islanders+12%2F26%2F2026\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+
+ vs+New+York+Islanders+12%2F26%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910208@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261228T200000
+DTEND;TZID=America/New_York:20261228T230000
+SUMMARY:🏀 Celtics vs Cleveland Cavaliers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Cleveland+Cavaliers+12%2F28%2F2026\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Celtics+vs+Cleveland+Cavaliers+12%2F28%2F2
+ 026\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Cel
+ tics+vs+Cleveland+Cavaliers+12%2F28%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893032@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20261230T193000
+DTEND;TZID=America/New_York:20261230T223000
+SUMMARY:🏒 Bruins vs Edmonton Oilers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Edmonton+Oilers+12%2F30%2F2026\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Bruins+vs+Edmonton+Oilers+12%2F30%2F2026\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Edm
+ onton+Oilers+12%2F30%2F2026
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401873157@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:🏈 Patriots vs Denver Broncos (time TBD)
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Denver+Broncos+1%2F3%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=New+England+Patriots+vs+Denver+Broncos+1%2F3%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=New+England+
+ Patriots+vs+Denver+Broncos+1%2F3%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893075@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270105T193000
+DTEND;TZID=America/New_York:20270105T223000
+SUMMARY:🏒 Bruins vs Buffalo Sabres
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Buffalo+Sabres+1%2F5%2F2027\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Bruins+vs+Buffalo+Sabres+1%2F5%2F2027\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Buffalo+S
+ abres+1%2F5%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:patriots-401873180@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:🏈 Patriots vs Miami Dolphins (time TBD)
+LOCATION:Gillette Stadium
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=New+Engla
+ nd+Patriots+vs+Miami+Dolphins+1%2F10%2F2027\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=New+England+Patriots+vs+Miami+Dolphins+1%2F10%2F2
+ 027\nVivid Seats: https://www.vividseats.com/search?searchTerm=New+Englan
+ d+Patriots+vs+Miami+Dolphins+1%2F10%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910315@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270111T193000
+DTEND;TZID=America/New_York:20270111T223000
+SUMMARY:🏀 Celtics vs Houston Rockets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Houston+Rockets+1%2F11%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Celtics+vs+Houston+Rockets+1%2F11%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Ho
+ uston+Rockets+1%2F11%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893120@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T220000
+SUMMARY:🏒 Bruins vs Carolina Hurricanes
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Carolina+Hurricanes+1%2F12%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Bruins+vs+Carolina+Hurricanes+1%2F12%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+
+ vs+Carolina+Hurricanes+1%2F12%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910328@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T220000
+SUMMARY:🏀 Celtics vs New York Knicks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+New+York+Knicks+1%2F13%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Celtics+vs+New+York+Knicks+1%2F13%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Ne
+ w+York+Knicks+1%2F13%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893135@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270114T190000
+DTEND;TZID=America/New_York:20270114T220000
+SUMMARY:🏒 Bruins vs Dallas Stars
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Dallas+Stars+1%2F14%2F2027\nTicketmaster: https://www.ticketmaste
+ r.com/search?q=Boston+Bruins+vs+Dallas+Stars+1%2F14%2F2027\nVivid Seats: 
+ https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Dallas+Star
+ s+1%2F14%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910352@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270116T190000
+DTEND;TZID=America/New_York:20270116T220000
+SUMMARY:🏀 Celtics vs Brooklyn Nets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Brooklyn+Nets+1%2F16%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Celtics+vs+Brooklyn+Nets+1%2F16%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Brookl
+ yn+Nets+1%2F16%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893169@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270118T133000
+DTEND;TZID=America/New_York:20270118T163000
+SUMMARY:🏒 Bruins vs Tampa Bay Lightning
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Tampa+Bay+Lightning+1%2F18%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Bruins+vs+Tampa+Bay+Lightning+1%2F18%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+
+ vs+Tampa+Bay+Lightning+1%2F18%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910377@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270120T193000
+DTEND;TZID=America/New_York:20270120T223000
+SUMMARY:🏀 Celtics vs Indiana Pacers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Indiana+Pacers+1%2F20%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Celtics+vs+Indiana+Pacers+1%2F20%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Indi
+ ana+Pacers+1%2F20%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910385@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270121T193000
+DTEND;TZID=America/New_York:20270121T223000
+SUMMARY:🏀 Celtics vs Philadelphia 76ers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Philadelphia+76ers+1%2F21%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Celtics+vs+Philadelphia+76ers+1%2F21%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics
+ +vs+Philadelphia+76ers+1%2F21%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910402@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270123T190000
+DTEND;TZID=America/New_York:20270123T220000
+SUMMARY:🏀 Celtics vs Charlotte Hornets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Charlotte+Hornets+1%2F23%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Celtics+vs+Charlotte+Hornets+1%2F23%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+v
+ s+Charlotte+Hornets+1%2F23%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910413@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270125T190000
+DTEND;TZID=America/New_York:20270125T220000
+SUMMARY:🏀 Celtics vs Toronto Raptors
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Toronto+Raptors+1%2F25%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Celtics+vs+Toronto+Raptors+1%2F25%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+To
+ ronto+Raptors+1%2F25%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893226@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T220000
+SUMMARY:🏒 Bruins vs Columbus Blue Jackets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Columbus+Blue+Jackets+1%2F26%2F2027\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Bruins+vs+Columbus+Blue+Jackets+1%2F26%2F2
+ 027\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bru
+ ins+vs+Columbus+Blue+Jackets+1%2F26%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910430@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270127T193000
+DTEND;TZID=America/New_York:20270127T223000
+SUMMARY:🏀 Celtics vs LA Clippers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+LA+Clippers+1%2F27%2F2027\nTicketmaster: https://www.ticketmaste
+ r.com/search?q=Boston+Celtics+vs+LA+Clippers+1%2F27%2F2027\nVivid Seats: 
+ https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+LA+Clipper
+ s+1%2F27%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910446@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270129T193000
+DTEND;TZID=America/New_York:20270129T223000
+SUMMARY:🏀 Celtics vs Phoenix Suns
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Phoenix+Suns+1%2F29%2F2027\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Celtics+vs+Phoenix+Suns+1%2F29%2F2027\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Phoenix+
+ Suns+1%2F29%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893261@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270130T190000
+DTEND;TZID=America/New_York:20270130T220000
+SUMMARY:🏒 Bruins vs Toronto Maple Leafs
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Toronto+Maple+Leafs+1%2F30%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Bruins+vs+Toronto+Maple+Leafs+1%2F30%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+
+ vs+Toronto+Maple+Leafs+1%2F30%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910477@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270202T200000
+DTEND;TZID=America/New_York:20270202T230000
+SUMMARY:🏀 Celtics vs Los Angeles Lakers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Los+Angeles+Lakers+2%2F2%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Celtics+vs+Los+Angeles+Lakers+2%2F2%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+v
+ s+Los+Angeles+Lakers+2%2F2%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910529@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270209T193000
+DTEND;TZID=America/New_York:20270209T223000
+SUMMARY:🏀 Celtics vs Denver Nuggets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Denver+Nuggets+2%2F9%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Celtics+vs+Denver+Nuggets+2%2F9%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Denver
+ +Nuggets+2%2F9%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910541@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270210T193000
+DTEND;TZID=America/New_York:20270210T223000
+SUMMARY:🏀 Celtics vs Golden State Warriors
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Golden+State+Warriors+2%2F10%2F2027\nTicketmaster: https://www.t
+ icketmaster.com/search?q=Boston+Celtics+vs+Golden+State+Warriors+2%2F10%2
+ F2027\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+C
+ eltics+vs+Golden+State+Warriors+2%2F10%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910556@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270212T200000
+DTEND;TZID=America/New_York:20270212T230000
+SUMMARY:🏀 Celtics vs Minnesota Timberwolves
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Minnesota+Timberwolves+2%2F12%2F2027\nTicketmaster: https://www.
+ ticketmaster.com/search?q=Boston+Celtics+vs+Minnesota+Timberwolves+2%2F12
+ %2F2027\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston
+ +Celtics+vs+Minnesota+Timberwolves+2%2F12%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893309@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270213T190000
+DTEND;TZID=America/New_York:20270213T220000
+SUMMARY:🏒 Bruins vs Columbus Blue Jackets
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Columbus+Blue+Jackets+2%2F13%2F2027\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Bruins+vs+Columbus+Blue+Jackets+2%2F13%2F2
+ 027\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bru
+ ins+vs+Columbus+Blue+Jackets+2%2F13%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910568@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270214T130000
+DTEND;TZID=America/New_York:20270214T160000
+SUMMARY:🏀 Celtics vs Toronto Raptors
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Toronto+Raptors+2%2F14%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Celtics+vs+Toronto+Raptors+2%2F14%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+To
+ ronto+Raptors+2%2F14%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893321@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270215T123000
+DTEND;TZID=America/New_York:20270215T153000
+SUMMARY:🏒 Bruins vs Anaheim Ducks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Anaheim+Ducks+2%2F15%2F2027\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Bruins+vs+Anaheim+Ducks+2%2F15%2F2027\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Anaheim+D
+ ucks+2%2F15%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893398@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270225T200000
+DTEND;TZID=America/New_York:20270225T230000
+SUMMARY:🏒 Bruins vs Washington Capitals
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Washington+Capitals+2%2F25%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Bruins+vs+Washington+Capitals+2%2F25%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+
+ vs+Washington+Capitals+2%2F25%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910610@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270226T193000
+DTEND;TZID=America/New_York:20270226T223000
+SUMMARY:🏀 Celtics vs Cleveland Cavaliers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Cleveland+Cavaliers+2%2F26%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Celtics+vs+Cleveland+Cavaliers+2%2F26%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celti
+ cs+vs+Cleveland+Cavaliers+2%2F26%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893410@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270227T120000
+DTEND;TZID=America/New_York:20270227T150000
+SUMMARY:🏒 Bruins vs Detroit Red Wings
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Detroit+Red+Wings+2%2F27%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Bruins+vs+Detroit+Red+Wings+2%2F27%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+D
+ etroit+Red+Wings+2%2F27%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893462@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270306T120000
+DTEND;TZID=America/New_York:20270306T150000
+SUMMARY:🏒 Bruins vs Pittsburgh Penguins
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Pittsburgh+Penguins+3%2F6%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+Pittsburgh+Penguins+3%2F6%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +Pittsburgh+Penguins+3%2F6%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910675@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270307T130000
+DTEND;TZID=America/New_York:20270307T160000
+SUMMARY:🏀 Celtics vs Philadelphia 76ers
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Philadelphia+76ers+3%2F7%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Celtics+vs+Philadelphia+76ers+3%2F7%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+v
+ s+Philadelphia+76ers+3%2F7%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893480@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270308T190000
+DTEND;TZID=America/New_York:20270308T220000
+SUMMARY:🏒 Bruins vs Seattle Kraken
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Seattle+Kraken+3%2F8%2F2027\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Bruins+vs+Seattle+Kraken+3%2F8%2F2027\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Seattle+K
+ raken+3%2F8%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910706@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270311T193000
+DTEND;TZID=America/New_York:20270311T223000
+SUMMARY:🏀 Celtics vs Memphis Grizzlies
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Memphis+Grizzlies+3%2F11%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Celtics+vs+Memphis+Grizzlies+3%2F11%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+v
+ s+Memphis+Grizzlies+3%2F11%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910713@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270312T193000
+DTEND;TZID=America/New_York:20270312T223000
+SUMMARY:🏀 Celtics vs Oklahoma City Thunder
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Oklahoma+City+Thunder+3%2F12%2F2027\nTicketmaster: https://www.t
+ icketmaster.com/search?q=Boston+Celtics+vs+Oklahoma+City+Thunder+3%2F12%2
+ F2027\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+C
+ eltics+vs+Oklahoma+City+Thunder+3%2F12%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893516@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270313T190000
+DTEND;TZID=America/New_York:20270313T220000
+SUMMARY:🏒 Bruins vs Calgary Flames
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Calgary+Flames+3%2F13%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Bruins+vs+Calgary+Flames+3%2F13%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Calgary
+ +Flames+3%2F13%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893530@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270315T190000
+DTEND;TZID=America/New_York:20270315T220000
+SUMMARY:🏒 Bruins vs New York Islanders
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+New+York+Islanders+3%2F15%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+New+York+Islanders+3%2F15%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +New+York+Islanders+3%2F15%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910740@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270316T193000
+DTEND;TZID=America/New_York:20270316T223000
+SUMMARY:🏀 Celtics vs Sacramento Kings
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Sacramento+Kings+3%2F16%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Celtics+vs+Sacramento+Kings+3%2F16%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+
+ Sacramento+Kings+3%2F16%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910759@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270318T193000
+DTEND;TZID=America/New_York:20270318T223000
+SUMMARY:🏀 Celtics vs Orlando Magic
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Orlando+Magic+3%2F18%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Celtics+vs+Orlando+Magic+3%2F18%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Orland
+ o+Magic+3%2F18%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910779@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270321T150000
+DTEND;TZID=America/New_York:20270321T180000
+SUMMARY:🏀 Celtics vs New Orleans Pelicans
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+New+Orleans+Pelicans+3%2F21%2F2027\nTicketmaster: https://www.ti
+ cketmaster.com/search?q=Boston+Celtics+vs+New+Orleans+Pelicans+3%2F21%2F2
+ 027\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Cel
+ tics+vs+New+Orleans+Pelicans+3%2F21%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893587@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270323T190000
+DTEND;TZID=America/New_York:20270323T220000
+SUMMARY:🏒 Bruins vs Buffalo Sabres
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Buffalo+Sabres+3%2F23%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Bruins+vs+Buffalo+Sabres+3%2F23%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Buffalo
+ +Sabres+3%2F23%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910803@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270324T193000
+DTEND;TZID=America/New_York:20270324T223000
+SUMMARY:🏀 Celtics vs San Antonio Spurs
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+San+Antonio+Spurs+3%2F24%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Celtics+vs+San+Antonio+Spurs+3%2F24%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+v
+ s+San+Antonio+Spurs+3%2F24%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893602@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270325T190000
+DTEND;TZID=America/New_York:20270325T220000
+SUMMARY:🏒 Bruins vs Ottawa Senators
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Ottawa+Senators+3%2F25%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Bruins+vs+Ottawa+Senators+3%2F25%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs+Ottaw
+ a+Senators+3%2F25%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893639@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270330T190000
+DTEND;TZID=America/New_York:20270330T220000
+SUMMARY:🏒 Bruins vs Montreal Canadiens
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Montreal+Canadiens+3%2F30%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+Montreal+Canadiens+3%2F30%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +Montreal+Canadiens+3%2F30%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401893857@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:⚾ Red Sox vs Cincinnati Reds (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cincinnati+Reds+4%2F1%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Cincinnati+Reds+4%2F1%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Cinc
+ innati+Reds+4%2F1%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910869@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270402T193000
+DTEND;TZID=America/New_York:20270402T223000
+SUMMARY:🏀 Celtics vs Miami Heat
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Miami+Heat+4%2F2%2F2027\nTicketmaster: https://www.ticketmaster.
+ com/search?q=Boston+Celtics+vs+Miami+Heat+4%2F2%2F2027\nVivid Seats: http
+ s://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Miami+Heat+4%2
+ F2%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401893878@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:⚾ Red Sox vs Cincinnati Reds (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cincinnati+Reds+4%2F3%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Cincinnati+Reds+4%2F3%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Cinc
+ innati+Reds+4%2F3%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:bruins-401893669@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270403T150000
+DTEND;TZID=America/New_York:20270403T180000
+SUMMARY:🏒 Bruins vs Tampa Bay Lightning
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Br
+ uins+vs+Tampa+Bay+Lightning+4%2F3%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Bruins+vs+Tampa+Bay+Lightning+4%2F3%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Bruins+vs
+ +Tampa+Bay+Lightning+4%2F3%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401893893@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:⚾ Red Sox vs Cincinnati Reds (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cincinnati+Reds+4%2F4%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Cincinnati+Reds+4%2F4%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Cinc
+ innati+Reds+4%2F4%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401893909@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:⚾ Red Sox vs Houston Astros (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Houston+Astros+4%2F5%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+Houston+Astros+4%2F5%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Housto
+ n+Astros+4%2F5%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401893923@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:⚾ Red Sox vs Houston Astros (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Houston+Astros+4%2F6%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+Houston+Astros+4%2F6%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Housto
+ n+Astros+4%2F6%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401893938@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:⚾ Red Sox vs Houston Astros (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Houston+Astros+4%2F7%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+Houston+Astros+4%2F7%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Housto
+ n+Astros+4%2F7%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:celtics-401910937@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;TZID=America/New_York:20270411T180000
+DTEND;TZID=America/New_York:20270411T210000
+SUMMARY:🏀 Celtics vs Milwaukee Bucks
+LOCATION:TD Garden
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Ce
+ ltics+vs+Milwaukee+Bucks+4%2F11%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Celtics+vs+Milwaukee+Bucks+4%2F11%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Celtics+vs+Mi
+ lwaukee+Bucks+4%2F11%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894052@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cleveland+Guardians+4%2F16%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Cleveland+Guardians+4%2F16%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Cleveland+Guardians+4%2F16%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894067@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cleveland+Guardians+4%2F17%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Cleveland+Guardians+4%2F17%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Cleveland+Guardians+4%2F17%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894082@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cleveland+Guardians+4%2F18%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Cleveland+Guardians+4%2F18%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Cleveland+Guardians+4%2F18%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894095@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Cleveland+Guardians+4%2F19%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Cleveland+Guardians+4%2F19%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Cleveland+Guardians+4%2F19%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894115@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Tampa+Bay+Rays+4%2F20%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Tampa+Bay+Rays+4%2F20%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Tamp
+ a+Bay+Rays+4%2F20%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894130@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Tampa+Bay+Rays+4%2F21%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Tampa+Bay+Rays+4%2F21%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Tamp
+ a+Bay+Rays+4%2F21%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894139@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Tampa+Bay+Rays+4%2F22%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Tampa+Bay+Rays+4%2F22%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Tamp
+ a+Bay+Rays+4%2F22%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894245@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:⚾ Red Sox vs St. Louis Cardinals (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+St.+Louis+Cardinals+4%2F30%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+St.+Louis+Cardinals+4%2F30%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+St.+Louis+Cardinals+4%2F30%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894260@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:⚾ Red Sox vs St. Louis Cardinals (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+St.+Louis+Cardinals+5%2F1%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+St.+Louis+Cardinals+5%2F1%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+St.+Louis+Cardinals+5%2F1%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894275@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:⚾ Red Sox vs St. Louis Cardinals (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+St.+Louis+Cardinals+5%2F2%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+St.+Louis+Cardinals+5%2F2%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+St.+Louis+Cardinals+5%2F2%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894289@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Toronto+Blue+Jays+5%2F3%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Toronto+Blue+Jays+5%2F3%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Toronto+Blue+Jays+5%2F3%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894304@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Toronto+Blue+Jays+5%2F4%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Toronto+Blue+Jays+5%2F4%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Toronto+Blue+Jays+5%2F4%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894319@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Toronto+Blue+Jays+5%2F5%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Toronto+Blue+Jays+5%2F5%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Toronto+Blue+Jays+5%2F5%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894431@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:⚾ Red Sox vs Los Angeles Dodgers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Dodgers+5%2F14%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Dodgers+5%2F14%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Los+Angeles+Dodgers+5%2F14%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894446@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:⚾ Red Sox vs Los Angeles Dodgers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Dodgers+5%2F15%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Dodgers+5%2F15%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Los+Angeles+Dodgers+5%2F15%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894461@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:⚾ Red Sox vs Los Angeles Dodgers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Dodgers+5%2F16%2F2027\nTicketmaster: https://www.tic
+ ketmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Dodgers+5%2F16%2F202
+ 7\nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+S
+ ox+vs+Los+Angeles+Dodgers+5%2F16%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894529@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:⚾ Red Sox vs Texas Rangers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Texas+Rangers+5%2F21%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+Texas+Rangers+5%2F21%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Texas+
+ Rangers+5%2F21%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894544@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:⚾ Red Sox vs Texas Rangers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Texas+Rangers+5%2F22%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+Texas+Rangers+5%2F22%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Texas+
+ Rangers+5%2F22%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894559@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⚾ Red Sox vs Texas Rangers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Texas+Rangers+5%2F23%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+Texas+Rangers+5%2F23%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Texas+
+ Rangers+5%2F23%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894566@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:⚾ Red Sox vs Chicago White Sox (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Chicago+White+Sox+5%2F24%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Chicago+White+Sox+5%2F24%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Chicago+White+Sox+5%2F24%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894576@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:⚾ Red Sox vs Chicago White Sox (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Chicago+White+Sox+5%2F25%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Chicago+White+Sox+5%2F25%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Chicago+White+Sox+5%2F25%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894591@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:⚾ Red Sox vs Chicago White Sox (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Chicago+White+Sox+5%2F26%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Chicago+White+Sox+5%2F26%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Chicago+White+Sox+5%2F26%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894712@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Yankees+6%2F4%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+New+York+Yankees+6%2F4%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Ne
+ w+York+Yankees+6%2F4%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894727@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Yankees+6%2F5%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+New+York+Yankees+6%2F5%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Ne
+ w+York+Yankees+6%2F5%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894741@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Yankees+6%2F6%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+New+York+Yankees+6%2F6%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Ne
+ w+York+Yankees+6%2F6%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894752@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Yankees+6%2F7%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+New+York+Yankees+6%2F7%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Ne
+ w+York+Yankees+6%2F7%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894765@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:⚾ Red Sox vs Miami Marlins (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Miami+Marlins+6%2F8%2F2027\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Red+Sox+vs+Miami+Marlins+6%2F8%2F2027\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Miami+Ma
+ rlins+6%2F8%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894780@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:⚾ Red Sox vs Miami Marlins (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Miami+Marlins+6%2F9%2F2027\nTicketmaster: https://www.ticketmast
+ er.com/search?q=Boston+Red+Sox+vs+Miami+Marlins+6%2F9%2F2027\nVivid Seats
+ : https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Miami+Ma
+ rlins+6%2F9%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894793@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:⚾ Red Sox vs Miami Marlins (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Miami+Marlins+6%2F10%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+Miami+Marlins+6%2F10%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Miami+
+ Marlins+6%2F10%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894852@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:⚾ Red Sox vs Athletics (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Athletics+6%2F15%2F2027\nTicketmaster: https://www.ticketmaster.
+ com/search?q=Boston+Red+Sox+vs+Athletics+6%2F15%2F2027\nVivid Seats: http
+ s://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Athletics+6%2F
+ 15%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894867@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:⚾ Red Sox vs Athletics (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Athletics+6%2F16%2F2027\nTicketmaster: https://www.ticketmaster.
+ com/search?q=Boston+Red+Sox+vs+Athletics+6%2F16%2F2027\nVivid Seats: http
+ s://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Athletics+6%2F
+ 16%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894883@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:⚾ Red Sox vs Athletics (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Athletics+6%2F17%2F2027\nTicketmaster: https://www.ticketmaster.
+ com/search?q=Boston+Red+Sox+vs+Athletics+6%2F17%2F2027\nVivid Seats: http
+ s://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Athletics+6%2F
+ 17%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401894986@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:⚾ Red Sox vs Colorado Rockies (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Colorado+Rockies+6%2F25%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Colorado+Rockies+6%2F25%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Colorado+Rockies+6%2F25%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895001@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:⚾ Red Sox vs Colorado Rockies (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Colorado+Rockies+6%2F26%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Colorado+Rockies+6%2F26%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Colorado+Rockies+6%2F26%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895016@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:⚾ Red Sox vs Colorado Rockies (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Colorado+Rockies+6%2F27%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Colorado+Rockies+6%2F27%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Colorado+Rockies+6%2F27%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895043@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:⚾ Red Sox vs Minnesota Twins (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Minnesota+Twins+6%2F29%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+Minnesota+Twins+6%2F29%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Mi
+ nnesota+Twins+6%2F29%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895058@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:⚾ Red Sox vs Minnesota Twins (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Minnesota+Twins+6%2F30%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+Minnesota+Twins+6%2F30%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Mi
+ nnesota+Twins+6%2F30%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895072@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:⚾ Red Sox vs Minnesota Twins (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Minnesota+Twins+7%2F1%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Minnesota+Twins+7%2F1%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Minn
+ esota+Twins+7%2F1%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895080@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Baltimore+Orioles+7%2F2%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Baltimore+Orioles+7%2F2%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Baltimore+Orioles+7%2F2%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895095@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Baltimore+Orioles+7%2F3%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Baltimore+Orioles+7%2F3%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Baltimore+Orioles+7%2F3%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895110@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Baltimore+Orioles+7%2F4%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Baltimore+Orioles+7%2F4%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Baltimore+Orioles+7%2F4%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895220@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:⚾ Red Sox vs Atlanta Braves (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Atlanta+Braves+7%2F16%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Atlanta+Braves+7%2F16%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Atla
+ nta+Braves+7%2F16%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895235@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:⚾ Red Sox vs Atlanta Braves (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Atlanta+Braves+7%2F17%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Atlanta+Braves+7%2F17%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Atla
+ nta+Braves+7%2F17%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895250@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:⚾ Red Sox vs Atlanta Braves (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Atlanta+Braves+7%2F18%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Atlanta+Braves+7%2F18%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Atla
+ nta+Braves+7%2F18%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895271@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:⚾ Red Sox vs New York Mets (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Mets+7%2F19%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+New+York+Mets+7%2F19%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+New+Yo
+ rk+Mets+7%2F19%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895286@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:⚾ Red Sox vs New York Mets (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Mets+7%2F20%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+New+York+Mets+7%2F20%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+New+Yo
+ rk+Mets+7%2F20%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895301@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:⚾ Red Sox vs New York Mets (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Mets+7%2F21%2F2027\nTicketmaster: https://www.ticketmas
+ ter.com/search?q=Boston+Red+Sox+vs+New+York+Mets+7%2F21%2F2027\nVivid Sea
+ ts: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+New+Yo
+ rk+Mets+7%2F21%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895457@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:⚾ Red Sox vs Los Angeles Angels (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Angels+8%2F2%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Angels+8%2F2%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Los+Angeles+Angels+8%2F2%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895464@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:⚾ Red Sox vs Los Angeles Angels (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Angels+8%2F3%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Angels+8%2F3%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Los+Angeles+Angels+8%2F3%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895479@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:⚾ Red Sox vs Los Angeles Angels (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Los+Angeles+Angels+8%2F4%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Los+Angeles+Angels+8%2F4%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Los+Angeles+Angels+8%2F4%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895514@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Yankees+8%2F6%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+New+York+Yankees+8%2F6%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Ne
+ w+York+Yankees+8%2F6%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895529@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Yankees+8%2F7%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+New+York+Yankees+8%2F7%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Ne
+ w+York+Yankees+8%2F7%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895544@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+New+York+Yankees+8%2F8%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+New+York+Yankees+8%2F8%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Ne
+ w+York+Yankees+8%2F8%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895651@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Toronto+Blue+Jays+8%2F16%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Toronto+Blue+Jays+8%2F16%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Toronto+Blue+Jays+8%2F16%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895666@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Toronto+Blue+Jays+8%2F17%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Toronto+Blue+Jays+8%2F17%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Toronto+Blue+Jays+8%2F17%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895681@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Toronto+Blue+Jays+8%2F18%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Toronto+Blue+Jays+8%2F18%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Toronto+Blue+Jays+8%2F18%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895699@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:⚾ Red Sox vs Pittsburgh Pirates (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Pittsburgh+Pirates+8%2F20%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Pittsburgh+Pirates+8%2F20%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Pittsburgh+Pirates+8%2F20%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895714@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:⚾ Red Sox vs Pittsburgh Pirates (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Pittsburgh+Pirates+8%2F21%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Pittsburgh+Pirates+8%2F21%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Pittsburgh+Pirates+8%2F21%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895729@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:⚾ Red Sox vs Pittsburgh Pirates (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Pittsburgh+Pirates+8%2F22%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Pittsburgh+Pirates+8%2F22%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Pittsburgh+Pirates+8%2F22%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895826@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Baltimore+Orioles+8%2F30%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Baltimore+Orioles+8%2F30%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Baltimore+Orioles+8%2F30%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895837@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Baltimore+Orioles+8%2F31%2F2027\nTicketmaster: https://www.ticke
+ tmaster.com/search?q=Boston+Red+Sox+vs+Baltimore+Orioles+8%2F31%2F2027\nV
+ ivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+v
+ s+Baltimore+Orioles+8%2F31%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895852@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Baltimore+Orioles+9%2F1%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Baltimore+Orioles+9%2F1%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Baltimore+Orioles+9%2F1%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895866@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Baltimore+Orioles+9%2F2%2F2027\nTicketmaster: https://www.ticket
+ master.com/search?q=Boston+Red+Sox+vs+Baltimore+Orioles+9%2F2%2F2027\nViv
+ id Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+
+ Baltimore+Orioles+9%2F2%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895882@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:⚾ Red Sox vs Seattle Mariners (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Seattle+Mariners+9%2F3%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+Seattle+Mariners+9%2F3%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Se
+ attle+Mariners+9%2F3%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895897@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:⚾ Red Sox vs Seattle Mariners (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Seattle+Mariners+9%2F4%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+Seattle+Mariners+9%2F4%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Se
+ attle+Mariners+9%2F4%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895912@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:⚾ Red Sox vs Seattle Mariners (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Seattle+Mariners+9%2F5%2F2027\nTicketmaster: https://www.ticketm
+ aster.com/search?q=Boston+Red+Sox+vs+Seattle+Mariners+9%2F5%2F2027\nVivid
+  Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Se
+ attle+Mariners+9%2F5%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895968@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:⚾ Red Sox vs Detroit Tigers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Detroit+Tigers+9%2F10%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Detroit+Tigers+9%2F10%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Detr
+ oit+Tigers+9%2F10%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895983@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:⚾ Red Sox vs Detroit Tigers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Detroit+Tigers+9%2F11%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Detroit+Tigers+9%2F11%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Detr
+ oit+Tigers+9%2F11%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401895998@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:⚾ Red Sox vs Detroit Tigers (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Detroit+Tigers+9%2F12%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Detroit+Tigers+9%2F12%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Detr
+ oit+Tigers+9%2F12%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401896120@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Tampa+Bay+Rays+9%2F21%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Tampa+Bay+Rays+9%2F21%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Tamp
+ a+Bay+Rays+9%2F21%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401896135@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Tampa+Bay+Rays+9%2F22%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Tampa+Bay+Rays+9%2F22%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Tamp
+ a+Bay+Rays+9%2F22%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401896148@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Tampa+Bay+Rays+9%2F23%2F2027\nTicketmaster: https://www.ticketma
+ ster.com/search?q=Boston+Red+Sox+vs+Tampa+Bay+Rays+9%2F23%2F2027\nVivid S
+ eats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox+vs+Tamp
+ a+Bay+Rays+9%2F23%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401896154@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:⚾ Red Sox vs Kansas City Royals (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Kansas+City+Royals+9%2F24%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Kansas+City+Royals+9%2F24%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Kansas+City+Royals+9%2F24%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401896169@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:⚾ Red Sox vs Kansas City Royals (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Kansas+City+Royals+9%2F25%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Kansas+City+Royals+9%2F25%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Kansas+City+Royals+9%2F25%2F2027
+END:VEVENT
+BEGIN:VEVENT
+UID:redsox-401896184@boston-sports
+DTSTAMP:20260815T193852Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:⚾ Red Sox vs Kansas City Royals (time TBD)
+LOCATION:Fenway Park
+DESCRIPTION:Tickets:\nStubHub: https://www.stubhub.com/find/s/?q=Boston+Re
+ d+Sox+vs+Kansas+City+Royals+9%2F26%2F2027\nTicketmaster: https://www.tick
+ etmaster.com/search?q=Boston+Red+Sox+vs+Kansas+City+Royals+9%2F26%2F2027\
+ nVivid Seats: https://www.vividseats.com/search?searchTerm=Boston+Red+Sox
+ +vs+Kansas+City+Royals+9%2F26%2F2027
+END:VEVENT
+END:VCALENDAR
