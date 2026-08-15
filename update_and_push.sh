@@ -3,7 +3,8 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 python3 update_calendar.py
-if ! git diff --quiet boston_sports_home_games.ics; then
+# -I: don't push when only the regeneration timestamps changed
+if ! git diff -I '^DTSTAMP:' --quiet boston_sports_home_games.ics; then
   git add boston_sports_home_games.ics
   git commit -q -m "Update calendar $(date +%F)"
   git push -q
