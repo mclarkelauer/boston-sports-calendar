@@ -95,14 +95,23 @@ def fold(line):
     return "\r\n".join(out)
 
 
-def ticket_links(search_name, opponent, local_dt):
+def ticket_links(search_name, opponent, local_dt, comp):
     # matchup only — dates in the query break the ticket sites' search matching
     q = urllib.parse.quote_plus(f"{search_name} vs {opponent}")
-    return (
-        f"Tickets:\nStubHub: https://www.stubhub.com/search?q={q}"
-        f"\nTicketmaster: https://www.ticketmaster.com/search?q={q}"
-        f"\nVivid Seats: https://www.vividseats.com/search?searchTerm={q}"
-    )
+    lines = ["Tickets:"]
+    # ESPN embeds a direct Vivid Seats event page (with a price summary) for
+    # most upcoming games; fall back to a Vivid Seats search when absent
+    tickets = comp.get("tickets") or []
+    direct = next((l["href"] for t in tickets for l in t.get("links", []) if "/production/" in l.get("href", "")), None)
+    if direct:
+        summary = tickets[0].get("summary", "")
+        label = f"Vivid Seats ({summary.lower()})" if summary else "Vivid Seats"
+        lines.append(f"{label}: {direct}")
+    else:
+        lines.append(f"Vivid Seats: https://www.vividseats.com/search?searchTerm={q}")
+    lines.append(f"StubHub: https://www.stubhub.com/search?q={q}")
+    lines.append(f"Ticketmaster: https://www.ticketmaster.com/search?q={q}")
+    return "\n".join(lines)
 
 
 def team_events(team, now, all_params):
@@ -138,7 +147,7 @@ def team_events(team, now, all_params):
                 "time_valid": comp.get("timeValid", True),
                 "summary": f"{emoji} {name} vs {opp}{label}",
                 "venue": comp.get("venue", {}).get("fullName", ""),
-                "description": ticket_links(search_name, opp, start.astimezone(EASTERN)),
+                "description": ticket_links(search_name, opp, start.astimezone(EASTERN), comp),
             }
     return list(events.values())
 
