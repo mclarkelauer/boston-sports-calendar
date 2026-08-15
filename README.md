@@ -12,6 +12,14 @@ https://raw.githubusercontent.com/mclarkelauer/boston-sports-calendar/main/bosto
 Google refreshes subscribed calendars on its own schedule (roughly every 12–24 hours).
 The same URL works in Apple Calendar, Outlook, Thunderbird, etc.
 
+## Choosing teams
+
+Teams are configured in `teams.toml` — flip `enabled = true/false` to add or
+remove one. Besides the seven defaults, ready-to-enable entries exist for the
+Boston Cannons (PLL) and BC/BU/Northeastern/Harvard men's and women's hockey
+and BC basketball. The daily cron run picks up changes; run
+`./update_and_push.sh` to apply immediately.
+
 ## How it works
 
 - `update_calendar.py` pulls each team's schedule from ESPN's public JSON API

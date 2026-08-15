@@ -1,0 +1,164 @@
+# Boston Sports Calendar — team configuration
+#
+# Flip `enabled` to true/false to add or remove a team from the calendar.
+# The daily cron run picks up changes automatically; to apply immediately run:
+#   ./update_and_push.sh
+#
+# Fields: name (calendar display), search (ticket-search query name),
+# emoji, sport (ESPN API path), id (ESPN team id or slug), league
+# (season-parameter group in update_calendar.py).
+
+[redsox]
+enabled = true
+name = "Red Sox"
+search = "Boston Red Sox"
+emoji = "⚾"
+sport = "baseball/mlb"
+id = "bos"
+league = "mlb"
+
+[celtics]
+enabled = true
+name = "Celtics"
+search = "Boston Celtics"
+emoji = "🏀"
+sport = "basketball/nba"
+id = "bos"
+league = "nba"
+
+[patriots]
+enabled = true
+name = "Patriots"
+search = "New England Patriots"
+emoji = "🏈"
+sport = "football/nfl"
+id = "ne"
+league = "nfl"
+
+[bruins]
+enabled = true
+name = "Bruins"
+search = "Boston Bruins"
+emoji = "🏒"
+sport = "hockey/nhl"
+id = "bos"
+league = "nhl"
+
+[revs]
+enabled = true
+name = "Revolution"
+search = "New England Revolution"
+emoji = "⚽"
+sport = "soccer/usa.1"
+id = "189"
+league = "soccer"
+
+[legacy]
+enabled = true
+name = "Boston Legacy FC"
+search = "Boston Legacy FC"
+emoji = "⚽"
+sport = "soccer/usa.nwsl"
+id = "131562"
+league = "soccer"
+
+[bceagles]
+enabled = true
+name = "BC Football"
+search = "Boston College Eagles Football"
+emoji = "🏈"
+sport = "football/college-football"
+id = "103"
+league = "cfb"
+
+# ---- Optional extras (disabled by default) ----
+
+[cannons]
+enabled = false
+name = "Boston Cannons"
+search = "Boston Cannons"
+emoji = "🥍"
+sport = "lacrosse/pll"
+id = "122997"
+league = "pll"
+
+[bc-hockey]
+enabled = false
+name = "BC Hockey"
+search = "Boston College Eagles Hockey"
+emoji = "🏒"
+sport = "hockey/mens-college-hockey"
+id = "103"
+league = "college-hockey"
+
+[bu-hockey]
+enabled = false
+name = "BU Hockey"
+search = "Boston University Terriers Hockey"
+emoji = "🏒"
+sport = "hockey/mens-college-hockey"
+id = "104"
+league = "college-hockey"
+
+[northeastern-hockey]
+enabled = false
+name = "Northeastern Hockey"
+search = "Northeastern Huskies Hockey"
+emoji = "🏒"
+sport = "hockey/mens-college-hockey"
+id = "111"
+league = "college-hockey"
+
+[harvard-hockey]
+enabled = false
+name = "Harvard Hockey"
+search = "Harvard Crimson Hockey"
+emoji = "🏒"
+sport = "hockey/mens-college-hockey"
+id = "108"
+league = "college-hockey"
+
+[bc-womens-hockey]
+enabled = false
+name = "BC Women's Hockey"
+search = "Boston College Eagles Women's Hockey"
+emoji = "🏒"
+sport = "hockey/womens-college-hockey"
+id = "103"
+league = "college-hockey"
+
+[bu-womens-hockey]
+enabled = false
+name = "BU Women's Hockey"
+search = "Boston University Terriers Women's Hockey"
+emoji = "🏒"
+sport = "hockey/womens-college-hockey"
+id = "104"
+league = "college-hockey"
+
+[northeastern-womens-hockey]
+enabled = false
+name = "Northeastern Women's Hockey"
+search = "Northeastern Huskies Women's Hockey"
+emoji = "🏒"
+sport = "hockey/womens-college-hockey"
+id = "111"
+league = "college-hockey"
+
+[harvard-womens-hockey]
+enabled = false
+name = "Harvard Women's Hockey"
+search = "Harvard Crimson Women's Hockey"
+emoji = "🏒"
+sport = "hockey/womens-college-hockey"
+id = "108"
+league = "college-hockey"
+
+[bc-basketball]
+enabled = false
+name = "BC Basketball"
+search = "Boston College Eagles Basketball"
+emoji = "🏀"
+sport = "basketball/mens-college-basketball"
+id = "103"
+league = "college-basketball"

@@ -9,6 +9,7 @@ fetched.
 """
 import json
 import sys
+import tomllib
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -27,6 +28,7 @@ def season_params(now):
     nba_nhl = y + 1 if now.month >= 7 else y  # season named by its ending year
     nfl = y if now.month >= 3 else y - 1
     cfb = y if now.month >= 2 else y - 1
+    college = y + 1 if now.month >= 6 else y  # ending-year convention, published by summer
     return {
         "mlb": [{"season": y}, {"season": y + 1}],
         "nba": [{"season": nba_nhl, "seasontype": 2}, {"season": nba_nhl + 1, "seasontype": 2}],
@@ -38,19 +40,27 @@ def season_params(now):
         "nhl": [{}, {"season": nba_nhl + 1, "seasontype": 2}],
         "soccer": [{"fixture": "true"}],
         "cfb": [{"season": cfb, "seasontype": 2}, {"season": cfb + 1, "seasontype": 2}],
+        "pll": [{}, {"season": y + 1}],
+        "college-hockey": [{"season": college}, {"season": college + 1}],
+        "college-basketball": [{"season": college}, {"season": college + 1}],
     }
 
 
-TEAMS = [
-    # key, display name, ticket-search name, emoji, ESPN sport path, ESPN team id, param group
-    ("redsox", "Red Sox", "Boston Red Sox", "⚾", "baseball/mlb", "bos", "mlb"),
-    ("celtics", "Celtics", "Boston Celtics", "🏀", "basketball/nba", "bos", "nba"),
-    ("patriots", "Patriots", "New England Patriots", "🏈", "football/nfl", "ne", "nfl"),
-    ("bruins", "Bruins", "Boston Bruins", "🏒", "hockey/nhl", "bos", "nhl"),
-    ("revs", "Revolution", "New England Revolution", "⚽", "soccer/usa.1", "189", "soccer"),
-    ("legacy", "Boston Legacy FC", "Boston Legacy FC", "⚽", "soccer/usa.nwsl", "131562", "soccer"),
-    ("bceagles", "BC Football", "Boston College Eagles Football", "🏈", "football/college-football", "103", "cfb"),
-]
+CONFIG_FILE = Path(__file__).parent / "teams.toml"
+
+
+def load_teams():
+    with open(CONFIG_FILE, "rb") as f:
+        config = tomllib.load(f)
+    teams, disabled = [], []
+    for key, t in config.items():
+        if t.get("enabled"):
+            teams.append((key, t["name"], t["search"], t["emoji"], t["sport"], str(t["id"]), t["league"]))
+        else:
+            disabled.append(t["name"])
+    if disabled:
+        print(f"disabled in teams.toml: {', '.join(disabled)}")
+    return teams
 
 VTIMEZONE = """BEGIN:VTIMEZONE
 TZID:America/New_York
@@ -181,7 +191,7 @@ def main():
     dtstamp = f"{now:%Y%m%dT%H%M%SZ}"
     all_params = season_params(now)
     all_events = []
-    for team in TEAMS:
+    for team in load_teams():
         evs = team_events(team, now, all_params)
         print(f"{team[1]}: {len(evs)} upcoming home games")
         if not evs:
