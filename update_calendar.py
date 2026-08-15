@@ -96,9 +96,10 @@ def fold(line):
 
 
 def ticket_links(search_name, opponent, local_dt):
-    q = urllib.parse.quote_plus(f"{search_name} vs {opponent} {local_dt.month}/{local_dt.day}/{local_dt.year}")
+    # matchup only — dates in the query break the ticket sites' search matching
+    q = urllib.parse.quote_plus(f"{search_name} vs {opponent}")
     return (
-        f"Tickets:\nStubHub: https://www.stubhub.com/find/s/?q={q}"
+        f"Tickets:\nStubHub: https://www.stubhub.com/search?q={q}"
         f"\nTicketmaster: https://www.ticketmaster.com/search?q={q}"
         f"\nVivid Seats: https://www.vividseats.com/search?searchTerm={q}"
     )
