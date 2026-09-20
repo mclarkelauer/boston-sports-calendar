@@ -26,40 +26,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYD
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bceagles-401858227@boston-sports
-DTSTAMP:20260919T101500Z
-DTSTART;TZID=America/New_York:20260919T140000
-DTEND;TZID=America/New_York:20260919T170000
-SUMMARY:🏈 BC Football vs Maine Black Bears
-LOCATION:Alumni Stadium (Chestnut Hill\, MA)
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $10): https://www.viv
- idseats.com/boston-college-eagles-football-tickets-alumni-stadium---bosto
- n-college-9-2-2026--sports-ncaa-football/production/6178847?wsUser=717\nS
- tubHub: https://www.stubhub.com/search?q=Boston+College+Eagles+Football+v
- s+Maine+Black+Bears\nTicketmaster: https://www.ticketmaster.com/search?q=
- Boston+College+Eagles+Football+vs+Maine+Black+Bears
-END:VEVENT
-BEGIN:VEVENT
-UID:revs-761816@boston-sports
-DTSTAMP:20260919T101500Z
-DTSTART;TZID=America/New_York:20260919T193000
-DTEND;TZID=America/New_York:20260919T223000
-SUMMARY:⚽ Revolution vs Orlando City SC
-LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $40): https://www.viv
- idseats.com/new-england-revolution-tickets-gillette-stadium-9-19-2026--sp
- orts-mls/production/6325298?wsUser=717\nStubHub: https://www.stubhub.com/
- search?q=New+England+Revolution+vs+Orlando+City+SC\nTicketmaster: https:/
- /www.ticketmaster.com/search?q=New+England+Revolution+vs+Orlando+City+SC
-END:VEVENT
-BEGIN:VEVENT
 UID:patriots-401872946@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260920T130000
 DTEND;TZID=America/New_York:20260920T160000
 SUMMARY:🏈 Patriots vs Pittsburgh Steelers
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $160): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $116): https://www.vi
  vidseats.com/new-england-patriots-tickets-foxborough-gillette-stadium-3-8
  -2027/production/6492648?wsUser=717\nStubHub: https://www.stubhub.com/sea
  rch?q=New+England+Patriots+vs+Pittsburgh+Steelers\nTicketmaster: https://
@@ -67,12 +40,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $160): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:legacy-401854086@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260920T140000
 DTEND;TZID=America/New_York:20260920T170000
 SUMMARY:⚽ Boston Legacy FC vs Houston Dash
 LOCATION:Centreville Bank Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $21): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $10): https://www.viv
  idseats.com/boston-legacy-fc-tickets-centreville-bank-stadium-9-20-2026--
  sports-soccer/production/6530353?wsUser=717\nStubHub: https://www.stubhub
  .com/search?q=Boston+Legacy+FC+vs+Houston+Dash\nTicketmaster: https://www
@@ -80,12 +53,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $21): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401879358@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260920T170000
 DTEND;TZID=America/New_York:20260920T200000
 SUMMARY:🏒 Bruins vs Washington Capitals
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $18): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $21): https://www.viv
  idseats.com/boston-bruins-tickets-td-garden-9-20-2026--sports-nhl-hockey/
  production/7199585?wsUser=717\nStubHub: https://www.stubhub.com/search?q=
  Boston+Bruins+vs+Washington+Capitals\nTicketmaster: https://www.ticketmas
@@ -93,12 +66,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $18): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401817031@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260922T184500
 DTEND;TZID=America/New_York:20260922T214500
 SUMMARY:⚾ Red Sox vs Cleveland Guardians
 LOCATION:Fenway Park
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $39): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $34): https://www.viv
  idseats.com/boston-red-sox-tickets-fenway-park-9-22-2026--sports-mlb-base
  ball/production/5966942?wsUser=717\nStubHub: https://www.stubhub.com/sear
  ch?q=Boston+Red+Sox+vs+Cleveland+Guardians\nTicketmaster: https://www.tic
@@ -106,12 +79,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $39): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401879362@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260922T190000
 DTEND;TZID=America/New_York:20260922T220000
 SUMMARY:🏒 Bruins vs Philadelphia Flyers
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $14): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $12): https://www.viv
  idseats.com/boston-bruins-tickets-td-garden-9-22-2026--sports-nhl-hockey/
  production/7199625?wsUser=717\nStubHub: https://www.stubhub.com/search?q=
  Boston+Bruins+vs+Philadelphia+Flyers\nTicketmaster: https://www.ticketmas
@@ -119,12 +92,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $14): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401817046@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260923T190000
 DTEND;TZID=America/New_York:20260923T220000
 SUMMARY:⚾ Red Sox vs Cleveland Guardians
 LOCATION:Fenway Park
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $31): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $26): https://www.viv
  idseats.com/boston-red-sox-tickets-fenway-park-9-23-2026--sports-mlb-base
  ball/production/5966949?wsUser=717\nStubHub: https://www.stubhub.com/sear
  ch?q=Boston+Red+Sox+vs+Cleveland+Guardians\nTicketmaster: https://www.tic
@@ -132,12 +105,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $31): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401817061@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260924T184500
 DTEND;TZID=America/New_York:20260924T214500
 SUMMARY:⚾ Red Sox vs Cleveland Guardians
 LOCATION:Fenway Park
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $37): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $34): https://www.viv
  idseats.com/boston-red-sox-tickets-fenway-park-9-24-2026--sports-mlb-base
  ball/production/5966958?wsUser=717\nStubHub: https://www.stubhub.com/sear
  ch?q=Boston+Red+Sox+vs+Cleveland+Guardians\nTicketmaster: https://www.tic
@@ -145,7 +118,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $37): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401817074@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260925T191000
 DTEND;TZID=America/New_York:20260925T221000
 SUMMARY:⚾ Red Sox vs Chicago Cubs
@@ -158,7 +131,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bceagles-401858242@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T150000
 SUMMARY:🏈 BC Football vs Virginia Tech Hokies
@@ -172,12 +145,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $42): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401817089@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260926T191500
 DTEND;TZID=America/New_York:20260926T221500
 SUMMARY:⚾ Red Sox vs Chicago Cubs
 LOCATION:Fenway Park
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $92): https://www.viv
  idseats.com/boston-red-sox-tickets-fenway-park-9-26-2026--sports-mlb-base
  ball/production/5966983?wsUser=717\nStubHub: https://www.stubhub.com/sear
  ch?q=Boston+Red+Sox+vs+Chicago+Cubs\nTicketmaster: https://www.ticketmast
@@ -185,12 +158,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401817104@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20260927T150500
 DTEND;TZID=America/New_York:20260927T180500
 SUMMARY:⚾ Red Sox vs Chicago Cubs
 LOCATION:Fenway Park
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $92): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $91): https://www.viv
  idseats.com/boston-red-sox-tickets-fenway-park-9-27-2026--sports-mlb-base
  ball/production/5966987?wsUser=717\nStubHub: https://www.stubhub.com/sear
  ch?q=Boston+Red+Sox+vs+Chicago+Cubs\nTicketmaster: https://www.ticketmast
@@ -198,12 +171,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $92): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:revs-761851@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261010T193000
 DTEND;TZID=America/New_York:20261010T223000
 SUMMARY:⚽ Revolution vs Seattle Sounders FC
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $30): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $32): https://www.viv
  idseats.com/new-england-revolution-tickets-gillette-stadium-10-10-2026--s
  ports-mls/production/6325316?wsUser=717\nStubHub: https://www.stubhub.com
  /search?q=New+England+Revolution+vs+Seattle+Sounders+FC\nTicketmaster: ht
@@ -212,12 +185,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $30): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401872986@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261011T130000
 DTEND;TZID=America/New_York:20261011T160000
 SUMMARY:🏈 Patriots vs Las Vegas Raiders
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $292): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $269): https://www.vi
  vidseats.com/new-england-patriots-tickets-foxborough-gillette-stadium-3-4
  -2027/production/6492616?wsUser=717\nStubHub: https://www.stubhub.com/sea
  rch?q=New+England+Patriots+vs+Las+Vegas+Raiders\nTicketmaster: https://ww
@@ -225,12 +198,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $292): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:legacy-401854091@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261016T200000
 DTEND;TZID=America/New_York:20261016T230000
 SUMMARY:⚽ Boston Legacy FC vs Racing Louisville FC
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $52): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $53): https://www.viv
  idseats.com/boston-legacy-fc-tickets-gillette-stadium-10-16-2026--sports-
  soccer/production/6530357?wsUser=717\nStubHub: https://www.stubhub.com/se
  arch?q=Boston+Legacy+FC+vs+Racing+Louisville+FC\nTicketmaster: https://ww
@@ -238,7 +211,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $52): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bceagles-401858267@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:🏈 BC Football vs Pittsburgh Panthers (time TBD)
@@ -252,12 +225,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $24): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:revs-761879@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261017T193000
 DTEND;TZID=America/New_York:20261017T223000
 SUMMARY:⚽ Revolution vs Chicago Fire FC
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $53): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $54): https://www.viv
  idseats.com/new-england-revolution-tickets-gillette-stadium-10-17-2026--s
  ports-mls/production/6325320?wsUser=717\nStubHub: https://www.stubhub.com
  /search?q=New+England+Revolution+vs+Chicago+Fire+FC\nTicketmaster: https:
@@ -265,12 +238,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $53): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873001@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261018T130000
 DTEND;TZID=America/New_York:20261018T160000
 SUMMARY:🏈 Patriots vs New York Jets
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $237): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $233): https://www.vi
  vidseats.com/new-england-patriots-tickets-foxborough-gillette-stadium-3-7
  -2027/production/6492644?wsUser=717\nStubHub: https://www.stubhub.com/sea
  rch?q=New+England+Patriots+vs+New+York+Jets\nTicketmaster: https://www.ti
@@ -278,12 +251,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $237): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909095@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T220000
 SUMMARY:🏀 Celtics vs New York Knicks
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $226): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $228): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-10-23-2026--sports-nba-bask
  etball/production/7415526?wsUser=717\nStubHub: https://www.stubhub.com/se
  arch?q=Boston+Celtics+vs+New+York+Knicks\nTicketmaster: https://www.ticke
@@ -291,7 +264,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $226): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909870@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261026T193000
 DTEND;TZID=America/New_York:20261026T223000
 SUMMARY:🏀 Celtics vs Chicago Bulls
@@ -304,7 +277,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $64): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909877@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261027T193000
 DTEND;TZID=America/New_York:20261027T223000
 SUMMARY:🏀 Celtics vs Brooklyn Nets
@@ -317,7 +290,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $48): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:revs-761909@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261028T193000
 DTEND;TZID=America/New_York:20261028T223000
 SUMMARY:⚽ Revolution vs Red Bull New York
@@ -331,12 +304,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $32): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909278@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T223000
 SUMMARY:🏀 Celtics vs Chicago Bulls
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $93): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
  idseats.com/boston-celtics-tickets-state-farm-arena-10-30-2026--sports-nb
  a-basketball/production/7419729?wsUser=717\nStubHub: https://www.stubhub.
  com/search?q=Boston+Celtics+vs+Chicago+Bulls\nTicketmaster: https://www.t
@@ -344,7 +317,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $93): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:revs-761932@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261101T180000
 DTEND;TZID=America/New_York:20261101T210000
 SUMMARY:⚽ Revolution vs Inter Miami CF
@@ -357,7 +330,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $164): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909924@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261104T193000
 DTEND;TZID=America/New_York:20261104T223000
 SUMMARY:🏀 Celtics vs Milwaukee Bucks
@@ -370,7 +343,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $52): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bceagles-401858289@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🏈 BC Football vs Florida State Seminoles (time TBD)
@@ -384,12 +357,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $27): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873049@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261108T162500
 DTEND;TZID=America/New_York:20261108T192500
 SUMMARY:🏈 Patriots vs Green Bay Packers
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $325): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $334): https://www.vi
  vidseats.com/new-england-patriots-tickets-foxborough-gillette-stadium-3-3
  -2027/production/6492606?wsUser=717\nStubHub: https://www.stubhub.com/sea
  rch?q=New+England+Patriots+vs+Green+Bay+Packers\nTicketmaster: https://ww
@@ -397,7 +370,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $325): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909989@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261115T180000
 DTEND;TZID=America/New_York:20261115T210000
 SUMMARY:🏀 Celtics vs Dallas Mavericks
@@ -410,7 +383,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $157): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909994@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261116T190000
 DTEND;TZID=America/New_York:20261116T220000
 SUMMARY:🏀 Celtics vs Orlando Magic
@@ -423,7 +396,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $51): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bceagles-401858309@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:🏈 BC Football vs Syracuse Orange (time TBD)
@@ -437,12 +410,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $18): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909330@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261127T200000
 DTEND;TZID=America/New_York:20261127T230000
 SUMMARY:🏀 Celtics vs Atlanta Hawks
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $109): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $108): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-10-31-2026--sports-nba-bask
  etball/production/7419731?wsUser=717\nStubHub: https://www.stubhub.com/se
  arch?q=Boston+Celtics+vs+Atlanta+Hawks\nTicketmaster: https://www.ticketm
@@ -450,7 +423,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $109): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910078@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261202T193000
 DTEND;TZID=America/New_York:20261202T223000
 SUMMARY:🏀 Celtics vs Charlotte Hornets
@@ -463,7 +436,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $58): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873105@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261206T162500
 DTEND;TZID=America/New_York:20261206T192500
 SUMMARY:🏈 Patriots vs Buffalo Bills
@@ -476,12 +449,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $299): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873109@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261210T201500
 DTEND;TZID=America/New_York:20261210T231500
 SUMMARY:🏈 Patriots vs Minnesota Vikings
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $152): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $154): https://www.vi
  vidseats.com/new-england-patriots-tickets-foxborough-gillette-stadium-3-6
  -2027/production/6492635?wsUser=717\nStubHub: https://www.stubhub.com/sea
  rch?q=New+England+Patriots+vs+Minnesota+Vikings\nTicketmaster: https://ww
@@ -489,7 +462,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $152): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910107@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261214T193000
 DTEND;TZID=America/New_York:20261214T223000
 SUMMARY:🏀 Celtics vs Washington Wizards
@@ -502,7 +475,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $65): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910117@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T220000
 SUMMARY:🏀 Celtics vs Washington Wizards
@@ -515,7 +488,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $61): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910136@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T223000
 SUMMARY:🏀 Celtics vs Utah Jazz
@@ -528,7 +501,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $88): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910156@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261220T200000
 DTEND;TZID=America/New_York:20261220T230000
 SUMMARY:🏀 Celtics vs Detroit Pistons
@@ -541,7 +514,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $93): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910175@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261223T193000
 DTEND;TZID=America/New_York:20261223T223000
 SUMMARY:🏀 Celtics vs Portland Trail Blazers
@@ -554,7 +527,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $109): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909098@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261225T143000
 DTEND;TZID=America/New_York:20261225T173000
 SUMMARY:🏀 Celtics vs Miami Heat
@@ -567,7 +540,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $171): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910208@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20261228T200000
 DTEND;TZID=America/New_York:20261228T230000
 SUMMARY:🏀 Celtics vs Cleveland Cavaliers
@@ -580,7 +553,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $126): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873157@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:🏈 Patriots vs Denver Broncos (time TBD)
@@ -593,7 +566,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $154): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873180@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:🏈 Patriots vs Miami Dolphins (time TBD)
@@ -606,7 +579,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $102): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910315@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270111T193000
 DTEND;TZID=America/New_York:20270111T223000
 SUMMARY:🏀 Celtics vs Houston Rockets
@@ -619,7 +592,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910328@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T220000
 SUMMARY:🏀 Celtics vs New York Knicks
@@ -632,7 +605,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $156): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910352@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270116T190000
 DTEND;TZID=America/New_York:20270116T220000
 SUMMARY:🏀 Celtics vs Brooklyn Nets
@@ -645,7 +618,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $95): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910377@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270120T193000
 DTEND;TZID=America/New_York:20270120T223000
 SUMMARY:🏀 Celtics vs Indiana Pacers
@@ -658,7 +631,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $70): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910385@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270121T193000
 DTEND;TZID=America/New_York:20270121T223000
 SUMMARY:🏀 Celtics vs Philadelphia 76ers
@@ -671,7 +644,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $325): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910402@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270123T190000
 DTEND;TZID=America/New_York:20270123T220000
 SUMMARY:🏀 Celtics vs Charlotte Hornets
@@ -684,7 +657,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $105): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910413@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270125T190000
 DTEND;TZID=America/New_York:20270125T220000
 SUMMARY:🏀 Celtics vs Toronto Raptors
@@ -697,12 +670,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $62): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910430@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270127T193000
 DTEND;TZID=America/New_York:20270127T223000
 SUMMARY:🏀 Celtics vs LA Clippers
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $58): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $51): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-1-27-2027/production/7432342
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  LA+Clippers\nTicketmaster: https://www.ticketmaster.com/search?q=Boston+C
@@ -710,7 +683,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $58): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910446@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270129T193000
 DTEND;TZID=America/New_York:20270129T223000
 SUMMARY:🏀 Celtics vs Phoenix Suns
@@ -723,7 +696,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $83): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910477@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270202T200000
 DTEND;TZID=America/New_York:20270202T230000
 SUMMARY:🏀 Celtics vs Los Angeles Lakers
@@ -736,12 +709,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $134): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910529@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270209T193000
 DTEND;TZID=America/New_York:20270209T223000
 SUMMARY:🏀 Celtics vs Denver Nuggets
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-2-9-2027/production/7432256?
  wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+D
  enver+Nuggets\nTicketmaster: https://www.ticketmaster.com/search?q=Boston
@@ -749,7 +722,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910541@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270210T193000
 DTEND;TZID=America/New_York:20270210T223000
 SUMMARY:🏀 Celtics vs Golden State Warriors
@@ -762,7 +735,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $114): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910556@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270212T200000
 DTEND;TZID=America/New_York:20270212T230000
 SUMMARY:🏀 Celtics vs Minnesota Timberwolves
@@ -775,7 +748,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $129): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910568@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270214T130000
 DTEND;TZID=America/New_York:20270214T160000
 SUMMARY:🏀 Celtics vs Toronto Raptors
@@ -788,7 +761,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $103): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910610@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270226T193000
 DTEND;TZID=America/New_York:20270226T223000
 SUMMARY:🏀 Celtics vs Cleveland Cavaliers
@@ -801,7 +774,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $111): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910675@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270307T130000
 DTEND;TZID=America/New_York:20270307T160000
 SUMMARY:🏀 Celtics vs Philadelphia 76ers
@@ -814,7 +787,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $284): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910706@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270311T193000
 DTEND;TZID=America/New_York:20270311T223000
 SUMMARY:🏀 Celtics vs Memphis Grizzlies
@@ -827,7 +800,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $72): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910713@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270312T193000
 DTEND;TZID=America/New_York:20270312T223000
 SUMMARY:🏀 Celtics vs Oklahoma City Thunder
@@ -840,12 +813,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $118): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910740@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270316T193000
 DTEND;TZID=America/New_York:20270316T223000
 SUMMARY:🏀 Celtics vs Sacramento Kings
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $58): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $60): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-3-16-2027/production/7431670
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Sacramento+Kings\nTicketmaster: https://www.ticketmaster.com/search?q=Bos
@@ -853,7 +826,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $58): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910759@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270318T193000
 DTEND;TZID=America/New_York:20270318T223000
 SUMMARY:🏀 Celtics vs Orlando Magic
@@ -866,7 +839,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $72): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910779@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270321T150000
 DTEND;TZID=America/New_York:20270321T180000
 SUMMARY:🏀 Celtics vs New Orleans Pelicans
@@ -879,7 +852,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $85): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910803@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270324T193000
 DTEND;TZID=America/New_York:20270324T223000
 SUMMARY:🏀 Celtics vs San Antonio Spurs
@@ -892,7 +865,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $153): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401893857@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 SUMMARY:⚾ Red Sox vs Cincinnati Reds (time TBD)
@@ -905,7 +878,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $306): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910869@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270402T193000
 DTEND;TZID=America/New_York:20270402T223000
 SUMMARY:🏀 Celtics vs Miami Heat
@@ -918,7 +891,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $115): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401893878@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:⚾ Red Sox vs Cincinnati Reds (time TBD)
@@ -931,7 +904,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $131): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401893893@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:⚾ Red Sox vs Cincinnati Reds (time TBD)
@@ -944,7 +917,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $124): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401893909@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:⚾ Red Sox vs Houston Astros (time TBD)
@@ -957,7 +930,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $138): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401893923@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:⚾ Red Sox vs Houston Astros (time TBD)
@@ -970,7 +943,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $138): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401893938@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:⚾ Red Sox vs Houston Astros (time TBD)
@@ -983,12 +956,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910937@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;TZID=America/New_York:20270411T180000
 DTEND;TZID=America/New_York:20270411T210000
 SUMMARY:🏀 Celtics vs Milwaukee Bucks
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $91): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $92): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-4-11-2027/production/7432503
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Milwaukee+Bucks\nTicketmaster: https://www.ticketmaster.com/search?q=Bost
@@ -996,7 +969,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $91): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894052@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
@@ -1009,7 +982,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894067@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
@@ -1022,7 +995,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894082@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
@@ -1035,7 +1008,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894095@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:⚾ Red Sox vs Cleveland Guardians (time TBD)
@@ -1048,7 +1021,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894115@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
@@ -1061,7 +1034,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894130@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
@@ -1074,7 +1047,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894139@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
@@ -1087,7 +1060,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $173): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894245@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:⚾ Red Sox vs St. Louis Cardinals (time TBD)
@@ -1100,7 +1073,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $109): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894260@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:⚾ Red Sox vs St. Louis Cardinals (time TBD)
@@ -1113,7 +1086,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894275@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:⚾ Red Sox vs St. Louis Cardinals (time TBD)
@@ -1126,7 +1099,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $117): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894289@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
@@ -1139,7 +1112,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $138): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894304@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
@@ -1152,7 +1125,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $145): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894319@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
@@ -1165,7 +1138,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $145): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894431@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:⚾ Red Sox vs Los Angeles Dodgers (time TBD)
@@ -1178,7 +1151,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $291): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894446@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:⚾ Red Sox vs Los Angeles Dodgers (time TBD)
@@ -1191,7 +1164,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $283): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894461@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:⚾ Red Sox vs Los Angeles Dodgers (time TBD)
@@ -1204,7 +1177,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $291): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894529@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:⚾ Red Sox vs Texas Rangers (time TBD)
@@ -1217,7 +1190,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894544@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:⚾ Red Sox vs Texas Rangers (time TBD)
@@ -1230,7 +1203,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894559@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:⚾ Red Sox vs Texas Rangers (time TBD)
@@ -1243,7 +1216,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894566@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:⚾ Red Sox vs Chicago White Sox (time TBD)
@@ -1256,7 +1229,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $145): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894576@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 SUMMARY:⚾ Red Sox vs Chicago White Sox (time TBD)
@@ -1269,7 +1242,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $145): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894591@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:⚾ Red Sox vs Chicago White Sox (time TBD)
@@ -1282,7 +1255,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $134): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894712@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
@@ -1295,7 +1268,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $285): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894727@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
@@ -1308,7 +1281,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $302): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894741@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
@@ -1321,7 +1294,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $287): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894752@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
 SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
@@ -1334,7 +1307,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $271): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894765@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
 SUMMARY:⚾ Red Sox vs Miami Marlins (time TBD)
@@ -1347,7 +1320,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894780@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:⚾ Red Sox vs Miami Marlins (time TBD)
@@ -1360,7 +1333,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894793@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 SUMMARY:⚾ Red Sox vs Miami Marlins (time TBD)
@@ -1373,7 +1346,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $167): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894852@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:⚾ Red Sox vs Athletics (time TBD)
@@ -1386,7 +1359,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894867@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 SUMMARY:⚾ Red Sox vs Athletics (time TBD)
@@ -1399,7 +1372,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894883@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 SUMMARY:⚾ Red Sox vs Athletics (time TBD)
@@ -1412,7 +1385,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $167): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401894986@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
 SUMMARY:⚾ Red Sox vs Colorado Rockies (time TBD)
@@ -1425,7 +1398,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895001@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 SUMMARY:⚾ Red Sox vs Colorado Rockies (time TBD)
@@ -1438,7 +1411,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895016@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:⚾ Red Sox vs Colorado Rockies (time TBD)
@@ -1451,7 +1424,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895043@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 SUMMARY:⚾ Red Sox vs Minnesota Twins (time TBD)
@@ -1464,7 +1437,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895058@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:⚾ Red Sox vs Minnesota Twins (time TBD)
@@ -1477,7 +1450,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895072@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 SUMMARY:⚾ Red Sox vs Minnesota Twins (time TBD)
@@ -1490,7 +1463,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $123): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895080@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
 SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
@@ -1503,7 +1476,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $131): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895095@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
@@ -1516,7 +1489,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895110@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
@@ -1529,7 +1502,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895220@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
 SUMMARY:⚾ Red Sox vs Atlanta Braves (time TBD)
@@ -1542,7 +1515,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895235@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 SUMMARY:⚾ Red Sox vs Atlanta Braves (time TBD)
@@ -1555,7 +1528,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $152): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895250@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:⚾ Red Sox vs Atlanta Braves (time TBD)
@@ -1568,7 +1541,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895271@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 SUMMARY:⚾ Red Sox vs New York Mets (time TBD)
@@ -1581,7 +1554,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895286@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:⚾ Red Sox vs New York Mets (time TBD)
@@ -1594,7 +1567,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895301@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:⚾ Red Sox vs New York Mets (time TBD)
@@ -1607,7 +1580,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895457@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
 SUMMARY:⚾ Red Sox vs Los Angeles Angels (time TBD)
@@ -1620,7 +1593,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895464@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
 SUMMARY:⚾ Red Sox vs Los Angeles Angels (time TBD)
@@ -1633,7 +1606,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895479@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
 SUMMARY:⚾ Red Sox vs Los Angeles Angels (time TBD)
@@ -1646,7 +1619,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895514@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
@@ -1659,7 +1632,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $302): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895529@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
@@ -1672,7 +1645,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $332): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895544@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 SUMMARY:⚾ Red Sox vs New York Yankees (time TBD)
@@ -1685,7 +1658,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $302): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895651@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
 SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
@@ -1698,7 +1671,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895666@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
@@ -1711,7 +1684,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895681@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 SUMMARY:⚾ Red Sox vs Toronto Blue Jays (time TBD)
@@ -1724,7 +1697,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $150): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895699@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
 SUMMARY:⚾ Red Sox vs Pittsburgh Pirates (time TBD)
@@ -1737,7 +1710,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $124): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895714@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 SUMMARY:⚾ Red Sox vs Pittsburgh Pirates (time TBD)
@@ -1750,7 +1723,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $136): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895729@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 SUMMARY:⚾ Red Sox vs Pittsburgh Pirates (time TBD)
@@ -1763,7 +1736,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $124): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895826@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
 SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
@@ -1776,7 +1749,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895837@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
 SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
@@ -1789,7 +1762,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $138): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895852@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
@@ -1802,7 +1775,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895866@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
 SUMMARY:⚾ Red Sox vs Baltimore Orioles (time TBD)
@@ -1815,7 +1788,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $167): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895882@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
 SUMMARY:⚾ Red Sox vs Seattle Mariners (time TBD)
@@ -1828,7 +1801,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $116): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895897@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:⚾ Red Sox vs Seattle Mariners (time TBD)
@@ -1841,7 +1814,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $131): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895912@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 SUMMARY:⚾ Red Sox vs Seattle Mariners (time TBD)
@@ -1854,7 +1827,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $174): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895968@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:⚾ Red Sox vs Detroit Tigers (time TBD)
@@ -1867,7 +1840,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $167): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895983@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 SUMMARY:⚾ Red Sox vs Detroit Tigers (time TBD)
@@ -1880,7 +1853,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $174): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401895998@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:⚾ Red Sox vs Detroit Tigers (time TBD)
@@ -1893,7 +1866,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $167): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401896120@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270922
 SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
@@ -1906,7 +1879,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401896135@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
 SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
@@ -1919,7 +1892,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401896148@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
 SUMMARY:⚾ Red Sox vs Tampa Bay Rays (time TBD)
@@ -1932,7 +1905,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401896154@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
 SUMMARY:⚾ Red Sox vs Kansas City Royals (time TBD)
@@ -1945,7 +1918,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $174): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401896169@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 SUMMARY:⚾ Red Sox vs Kansas City Royals (time TBD)
@@ -1958,7 +1931,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $182): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:redsox-401896184@boston-sports
-DTSTAMP:20260919T101500Z
+DTSTAMP:20260920T101500Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 SUMMARY:⚾ Red Sox vs Kansas City Royals (time TBD)
