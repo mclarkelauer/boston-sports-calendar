@@ -27,12 +27,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:celtics-401909278@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261030T193000
 DTEND;TZID=America/New_York:20261030T223000
 SUMMARY:🏀 Celtics vs Chicago Bulls
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $74): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $79): https://www.viv
  idseats.com/boston-celtics-tickets-state-farm-arena-10-30-2026--sports-nb
  a-basketball/production/7419729?wsUser=717\nStubHub: https://www.stubhub.
  com/search?q=Boston+Celtics+vs+Chicago+Bulls\nTicketmaster: https://www.t
@@ -40,7 +40,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $74): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892614@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261031T130000
 DTEND;TZID=America/New_York:20261031T160000
 SUMMARY:🏒 Bruins vs Chicago Blackhawks
@@ -53,7 +53,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $46): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:revs-761932@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261101T190000
 DTEND;TZID=America/New_York:20261101T220000
 SUMMARY:⚽ Revolution vs Inter Miami CF
@@ -66,12 +66,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $113): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892629@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261102T190000
 DTEND;TZID=America/New_York:20261102T220000
 SUMMARY:🏒 Bruins vs Vegas Golden Knights
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $45): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $46): https://www.viv
  idseats.com/boston-bruins-tickets-td-garden-11-2-2026/production/7302429?
  wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Bruins+vs+Ve
  gas+Golden+Knights\nTicketmaster: https://www.ticketmaster.com/search?q=B
@@ -79,12 +79,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $45): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909924@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261104T193000
 DTEND;TZID=America/New_York:20261104T223000
 SUMMARY:🏀 Celtics vs Milwaukee Bucks
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $39): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $45): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-11-4-2026/production/7432889
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Milwaukee+Bucks\nTicketmaster: https://www.ticketmaster.com/search?q=Bost
@@ -92,7 +92,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $39): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bceagles-401858289@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:🏈 BC Football vs Florida State Seminoles
@@ -106,7 +106,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $20): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892674@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261108T130000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:🏒 Bruins vs Florida Panthers
@@ -119,12 +119,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873049@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261108T162500
 DTEND;TZID=America/New_York:20261108T192500
 SUMMARY:🏈 Patriots vs Green Bay Packers
 LOCATION:Gillette Stadium
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $268): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $194): https://www.vi
  vidseats.com/new-england-patriots-tickets-foxborough-gillette-stadium-3-3
  -2027/production/6492606?wsUser=717\nStubHub: https://www.stubhub.com/sea
  rch?q=New+England+Patriots+vs+Green+Bay+Packers\nTicketmaster: https://ww
@@ -132,7 +132,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $268): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892696@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261112T190000
 DTEND;TZID=America/New_York:20261112T220000
 SUMMARY:🏒 Bruins vs Montreal Canadiens
@@ -145,7 +145,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892709@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261114T190000
 DTEND;TZID=America/New_York:20261114T220000
 SUMMARY:🏒 Bruins vs Minnesota Wild
@@ -158,7 +158,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909989@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261115T180000
 DTEND;TZID=America/New_York:20261115T210000
 SUMMARY:🏀 Celtics vs Dallas Mavericks
@@ -171,12 +171,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $119): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909994@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261116T190000
 DTEND;TZID=America/New_York:20261116T220000
 SUMMARY:🏀 Celtics vs Orlando Magic
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $48): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $47): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-11-16-2026/production/743314
  2?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs
  +Orlando+Magic\nTicketmaster: https://www.ticketmaster.com/search?q=Bosto
@@ -184,7 +184,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $48): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892728@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261117T190000
 DTEND;TZID=America/New_York:20261117T220000
 SUMMARY:🏒 Bruins vs Los Angeles Kings
@@ -197,12 +197,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $45): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bceagles-401858309@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:🏈 BC Football vs Syracuse Orange (time TBD)
 LOCATION:Alumni Stadium (Chestnut Hill\, MA)
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $13): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $14): https://www.viv
  idseats.com/boston-college-eagles-football-tickets-alumni-stadium---bosto
  n-college-9-4-2026--sports-ncaa-football/production/6190097?wsUser=717\nS
  tubHub: https://www.stubhub.com/search?q=Boston+College+Eagles+Football+v
@@ -211,7 +211,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $13): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892758@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261121T190000
 DTEND;TZID=America/New_York:20261121T220000
 SUMMARY:🏒 Bruins vs Washington Capitals
@@ -224,7 +224,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892781@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261125T190000
 DTEND;TZID=America/New_York:20261125T220000
 SUMMARY:🏒 Bruins vs Winnipeg Jets
@@ -237,7 +237,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892795@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261127T130000
 DTEND;TZID=America/New_York:20261127T160000
 SUMMARY:🏒 Bruins vs Toronto Maple Leafs
@@ -250,12 +250,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909330@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261127T200000
 DTEND;TZID=America/New_York:20261127T230000
 SUMMARY:🏀 Celtics vs Atlanta Hawks
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $111): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $107): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-10-31-2026--sports-nba-bask
  etball/production/7419731?wsUser=717\nStubHub: https://www.stubhub.com/se
  arch?q=Boston+Celtics+vs+Atlanta+Hawks\nTicketmaster: https://www.ticketm
@@ -263,7 +263,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $111): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892824@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261129T170000
 DTEND;TZID=America/New_York:20261129T200000
 SUMMARY:🏒 Bruins vs Vancouver Canucks
@@ -276,7 +276,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892835@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261201T200000
 DTEND;TZID=America/New_York:20261201T230000
 SUMMARY:🏒 Bruins vs Colorado Avalanche
@@ -289,12 +289,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $66): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910078@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261202T193000
 DTEND;TZID=America/New_York:20261202T223000
 SUMMARY:🏀 Celtics vs Charlotte Hornets
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $46): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $47): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-12-2-2026/production/7431828
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Charlotte+Hornets\nTicketmaster: https://www.ticketmaster.com/search?q=Bo
@@ -302,7 +302,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $46): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892859@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261205T130000
 DTEND;TZID=America/New_York:20261205T160000
 SUMMARY:🏒 Bruins vs Detroit Red Wings
@@ -315,7 +315,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $66): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873105@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261206T162500
 DTEND;TZID=America/New_York:20261206T192500
 SUMMARY:🏈 Patriots vs Buffalo Bills
@@ -328,7 +328,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $311): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873109@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261210T201500
 DTEND;TZID=America/New_York:20261210T231500
 SUMMARY:🏈 Patriots vs Minnesota Vikings
@@ -341,7 +341,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $166): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892909@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261212T130000
 DTEND;TZID=America/New_York:20261212T160000
 SUMMARY:🏒 Bruins vs New Jersey Devils
@@ -354,7 +354,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $113): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910107@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261214T193000
 DTEND;TZID=America/New_York:20261214T223000
 SUMMARY:🏀 Celtics vs Washington Wizards
@@ -367,7 +367,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $50): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892931@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T220000
 SUMMARY:🏒 Bruins vs Florida Panthers
@@ -380,7 +380,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910117@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T220000
 SUMMARY:🏀 Celtics vs Washington Wizards
@@ -393,7 +393,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $49): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892946@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261217T190000
 DTEND;TZID=America/New_York:20261217T220000
 SUMMARY:🏒 Bruins vs St. Louis Blues
@@ -406,12 +406,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $45): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910136@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T223000
 SUMMARY:🏀 Celtics vs Utah Jazz
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $80): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $78): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-12-18-2026/production/743169
  5?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs
  +Utah+Jazz\nTicketmaster: https://www.ticketmaster.com/search?q=Boston+Ce
@@ -419,7 +419,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $80): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892970@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261220T130000
 DTEND;TZID=America/New_York:20261220T160000
 SUMMARY:🏒 Bruins vs Philadelphia Flyers
@@ -432,7 +432,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910156@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261220T200000
 DTEND;TZID=America/New_York:20261220T230000
 SUMMARY:🏀 Celtics vs Detroit Pistons
@@ -445,12 +445,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $82): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910175@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261223T193000
 DTEND;TZID=America/New_York:20261223T223000
 SUMMARY:🏀 Celtics vs Portland Trail Blazers
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $98): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-12-23-2026/production/743266
  1?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs
  +Portland+Trail+Blazers\nTicketmaster: https://www.ticketmaster.com/searc
@@ -458,12 +458,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401909098@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261225T143000
 DTEND;TZID=America/New_York:20261225T173000
 SUMMARY:🏀 Celtics vs Miami Heat
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $166): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-12-25-2026--sports-nba-bask
  etball/production/7415389?wsUser=717\nStubHub: https://www.stubhub.com/se
  arch?q=Boston+Celtics+vs+Miami+Heat\nTicketmaster: https://www.ticketmast
@@ -471,7 +471,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $161): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401892995@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261226T190000
 DTEND;TZID=America/New_York:20261226T220000
 SUMMARY:🏒 Bruins vs New York Islanders
@@ -484,12 +484,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910208@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261228T200000
 DTEND;TZID=America/New_York:20261228T230000
 SUMMARY:🏀 Celtics vs Cleveland Cavaliers
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $144): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $143): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-12-28-2026/production/74311
  70?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+v
  s+Cleveland+Cavaliers\nTicketmaster: https://www.ticketmaster.com/search?
@@ -497,7 +497,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $144): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893032@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20261230T193000
 DTEND;TZID=America/New_York:20261230T223000
 SUMMARY:🏒 Bruins vs Edmonton Oilers
@@ -510,7 +510,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $56): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873157@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:🏈 Patriots vs Denver Broncos (time TBD)
@@ -523,12 +523,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $163): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893075@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270105T193000
 DTEND;TZID=America/New_York:20270105T223000
 SUMMARY:🏒 Bruins vs Buffalo Sabres
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $74): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $73): https://www.viv
  idseats.com/boston-bruins-tickets-td-garden-1-5-2027/production/7299823?w
  sUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Bruins+vs+Buf
  falo+Sabres\nTicketmaster: https://www.ticketmaster.com/search?q=Boston+B
@@ -536,7 +536,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $74): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:patriots-401873180@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:🏈 Patriots vs Miami Dolphins (time TBD)
@@ -549,7 +549,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $103): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910315@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270111T193000
 DTEND;TZID=America/New_York:20270111T223000
 SUMMARY:🏀 Celtics vs Houston Rockets
@@ -562,12 +562,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $81): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893120@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T220000
 SUMMARY:🏒 Bruins vs Carolina Hurricanes
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $81): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $82): https://www.viv
  idseats.com/boston-bruins-tickets-td-garden-1-12-2027/production/7300367?
  wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Bruins+vs+Ca
  rolina+Hurricanes\nTicketmaster: https://www.ticketmaster.com/search?q=Bo
@@ -575,7 +575,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $81): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910328@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T220000
 SUMMARY:🏀 Celtics vs New York Knicks
@@ -588,7 +588,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $139): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893135@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270114T190000
 DTEND;TZID=America/New_York:20270114T220000
 SUMMARY:🏒 Bruins vs Dallas Stars
@@ -601,7 +601,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $77): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910352@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270116T190000
 DTEND;TZID=America/New_York:20270116T220000
 SUMMARY:🏀 Celtics vs Brooklyn Nets
@@ -614,12 +614,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $91): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893169@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270118T133000
 DTEND;TZID=America/New_York:20270118T163000
 SUMMARY:🏒 Bruins vs Tampa Bay Lightning
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $95): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
  idseats.com/boston-bruins-tickets-td-garden-1-18-2027/production/7299857?
  wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Bruins+vs+Ta
  mpa+Bay+Lightning\nTicketmaster: https://www.ticketmaster.com/search?q=Bo
@@ -627,7 +627,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $95): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910377@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270120T193000
 DTEND;TZID=America/New_York:20270120T223000
 SUMMARY:🏀 Celtics vs Indiana Pacers
@@ -640,7 +640,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $68): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910385@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270121T193000
 DTEND;TZID=America/New_York:20270121T223000
 SUMMARY:🏀 Celtics vs Philadelphia 76ers
@@ -653,7 +653,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $278): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910402@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270123T190000
 DTEND;TZID=America/New_York:20270123T220000
 SUMMARY:🏀 Celtics vs Charlotte Hornets
@@ -666,7 +666,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $97): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910413@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270125T190000
 DTEND;TZID=America/New_York:20270125T220000
 SUMMARY:🏀 Celtics vs Toronto Raptors
@@ -679,12 +679,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $63): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893226@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270126T190000
 DTEND;TZID=America/New_York:20270126T220000
 SUMMARY:🏒 Bruins vs Columbus Blue Jackets
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $71): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $72): https://www.viv
  idseats.com/boston-bruins-tickets-td-garden-1-26-2027/production/7299882?
  wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Bruins+vs+Co
  lumbus+Blue+Jackets\nTicketmaster: https://www.ticketmaster.com/search?q=
@@ -692,7 +692,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $71): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910430@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270127T193000
 DTEND;TZID=America/New_York:20270127T223000
 SUMMARY:🏀 Celtics vs LA Clippers
@@ -705,7 +705,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $54): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910446@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270129T193000
 DTEND;TZID=America/New_York:20270129T223000
 SUMMARY:🏀 Celtics vs Phoenix Suns
@@ -718,7 +718,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $80): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893261@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270130T190000
 DTEND;TZID=America/New_York:20270130T220000
 SUMMARY:🏒 Bruins vs Toronto Maple Leafs
@@ -731,12 +731,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $151): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910477@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270202T200000
 DTEND;TZID=America/New_York:20270202T230000
 SUMMARY:🏀 Celtics vs Los Angeles Lakers
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $121): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $124): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-2-2-2027/production/7432394
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Los+Angeles+Lakers\nTicketmaster: https://www.ticketmaster.com/search?q=B
@@ -744,7 +744,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $121): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910529@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270209T193000
 DTEND;TZID=America/New_York:20270209T223000
 SUMMARY:🏀 Celtics vs Denver Nuggets
@@ -757,7 +757,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $84): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910541@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270210T193000
 DTEND;TZID=America/New_York:20270210T223000
 SUMMARY:🏀 Celtics vs Golden State Warriors
@@ -770,7 +770,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $106): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910556@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270212T200000
 DTEND;TZID=America/New_York:20270212T230000
 SUMMARY:🏀 Celtics vs Minnesota Timberwolves
@@ -783,7 +783,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $117): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893309@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270213T190000
 DTEND;TZID=America/New_York:20270213T220000
 SUMMARY:🏒 Bruins vs Columbus Blue Jackets
@@ -796,12 +796,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $125): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910568@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270214T130000
 DTEND;TZID=America/New_York:20270214T160000
 SUMMARY:🏀 Celtics vs Toronto Raptors
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $95): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-2-14-2027/production/7432683
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Toronto+Raptors\nTicketmaster: https://www.ticketmaster.com/search?q=Bost
@@ -809,7 +809,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893321@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270215T140000
 DTEND;TZID=America/New_York:20270215T170000
 SUMMARY:🏒 Bruins vs Anaheim Ducks
@@ -822,7 +822,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893398@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270225T200000
 DTEND;TZID=America/New_York:20270225T230000
 SUMMARY:🏒 Bruins vs Washington Capitals
@@ -835,12 +835,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $51): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910610@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270226T193000
 DTEND;TZID=America/New_York:20270226T223000
 SUMMARY:🏀 Celtics vs Cleveland Cavaliers
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $94): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-2-26-2027/production/7431226
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Cleveland+Cavaliers\nTicketmaster: https://www.ticketmaster.com/search?q=
@@ -848,7 +848,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $96): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893410@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270227T123000
 DTEND;TZID=America/New_York:20270227T153000
 SUMMARY:🏒 Bruins vs Detroit Red Wings
@@ -861,7 +861,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $118): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893462@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270306T123000
 DTEND;TZID=America/New_York:20270306T153000
 SUMMARY:🏒 Bruins vs Pittsburgh Penguins
@@ -874,12 +874,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $139): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910675@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270307T130000
 DTEND;TZID=America/New_York:20270307T160000
 SUMMARY:🏀 Celtics vs Philadelphia 76ers
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $252): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $259): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-3-7-2027/production/7432627
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Philadelphia+76ers\nTicketmaster: https://www.ticketmaster.com/search?q=B
@@ -887,7 +887,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $252): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893480@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270308T190000
 DTEND;TZID=America/New_York:20270308T220000
 SUMMARY:🏒 Bruins vs Seattle Kraken
@@ -900,7 +900,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $67): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910706@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270311T193000
 DTEND;TZID=America/New_York:20270311T223000
 SUMMARY:🏀 Celtics vs Memphis Grizzlies
@@ -913,7 +913,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $68): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910713@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270312T193000
 DTEND;TZID=America/New_York:20270312T223000
 SUMMARY:🏀 Celtics vs Oklahoma City Thunder
@@ -926,7 +926,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $118): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893516@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270313T190000
 DTEND;TZID=America/New_York:20270313T220000
 SUMMARY:🏒 Bruins vs Calgary Flames
@@ -939,7 +939,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $118): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893530@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270315T190000
 DTEND;TZID=America/New_York:20270315T220000
 SUMMARY:🏒 Bruins vs New York Islanders
@@ -952,12 +952,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $80): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910740@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270316T193000
 DTEND;TZID=America/New_York:20270316T223000
 SUMMARY:🏀 Celtics vs Sacramento Kings
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $54): https://www.viv
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $55): https://www.viv
  idseats.com/boston-celtics-tickets-td-garden-3-16-2027/production/7431670
  ?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs+
  Sacramento+Kings\nTicketmaster: https://www.ticketmaster.com/search?q=Bos
@@ -965,7 +965,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $54): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910759@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270318T193000
 DTEND;TZID=America/New_York:20270318T223000
 SUMMARY:🏀 Celtics vs Orlando Magic
@@ -978,7 +978,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $71): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910779@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270321T150000
 DTEND;TZID=America/New_York:20270321T180000
 SUMMARY:🏀 Celtics vs New Orleans Pelicans
@@ -991,7 +991,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $85): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893587@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270323T190000
 DTEND;TZID=America/New_York:20270323T220000
 SUMMARY:🏒 Bruins vs Buffalo Sabres
@@ -1004,12 +1004,12 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $75): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910803@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270324T193000
 DTEND;TZID=America/New_York:20270324T223000
 SUMMARY:🏀 Celtics vs San Antonio Spurs
 LOCATION:TD Garden
-DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $135): https://www.vi
+DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $127): https://www.vi
  vidseats.com/boston-celtics-tickets-td-garden-3-24-2027/production/743270
  5?wsUser=717\nStubHub: https://www.stubhub.com/search?q=Boston+Celtics+vs
  +San+Antonio+Spurs\nTicketmaster: https://www.ticketmaster.com/search?q=B
@@ -1017,7 +1017,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $135): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893602@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270325T190000
 DTEND;TZID=America/New_York:20270325T220000
 SUMMARY:🏒 Bruins vs Ottawa Senators
@@ -1030,7 +1030,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $80): https://www.viv
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893639@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270330T190000
 DTEND;TZID=America/New_York:20270330T220000
 SUMMARY:🏒 Bruins vs Montreal Canadiens
@@ -1043,7 +1043,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $131): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910869@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270402T193000
 DTEND;TZID=America/New_York:20270402T223000
 SUMMARY:🏀 Celtics vs Miami Heat
@@ -1056,7 +1056,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $102): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:bruins-401893669@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270403T150000
 DTEND;TZID=America/New_York:20270403T180000
 SUMMARY:🏒 Bruins vs Tampa Bay Lightning
@@ -1069,7 +1069,7 @@ DESCRIPTION:Tickets:\nVivid Seats (tickets as low as $132): https://www.vi
 END:VEVENT
 BEGIN:VEVENT
 UID:celtics-401910937@boston-sports
-DTSTAMP:20261029T101500Z
+DTSTAMP:20261030T101500Z
 DTSTART;TZID=America/New_York:20270411T180000
 DTEND;TZID=America/New_York:20270411T210000
 SUMMARY:🏀 Celtics vs Milwaukee Bucks
